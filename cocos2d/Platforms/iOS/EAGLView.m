@@ -90,6 +90,8 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 @synthesize touchDelegate=touchDelegate_;
 @synthesize context=context_;
 @synthesize multiSampling=multiSampling_;
+@synthesize renderer = renderer_;
+@synthesize fixedSize = fixedSize_;
 
 + (Class) layerClass
 {
@@ -203,15 +205,18 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 
 - (void) layoutSubviews
 {
-    [renderer_ resizeFromLayer:(CAEAGLLayer*)self.layer];
-	size_ = [renderer_ backingSize];
+    if (!self.fixedSize)
+    {
+        [renderer_ resizeFromLayer:(CAEAGLLayer*)self.layer];
+        size_ = [renderer_ backingSize];
 
-	// Issue #914 #924
-	CCDirector *director = [CCDirector sharedDirector];
-	[director reshapeProjection:size_];
+        // Issue #914 #924
+        CCDirector *director = [CCDirector sharedDirector];
+        [director reshapeProjection:size_];
 
-	// Avoid flicker. Issue #350
-	[director performSelectorOnMainThread:@selector(drawScene) withObject:nil waitUntilDone:YES];
+        // Avoid flicker. Issue #350
+        [director performSelectorOnMainThread:@selector(drawScene) withObject:nil waitUntilDone:YES];
+    }
 }
 
 - (void) swapBuffers

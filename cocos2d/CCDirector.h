@@ -80,6 +80,7 @@ and when to execute the Scenes.
 @interface CCDirector : NSObject
 {
 	CC_GLVIEW	*openGLView_;
+    CC_GLVIEW	*externalOpenGLView_;
 
 	// internal timer
 	NSTimeInterval animationInterval_;
@@ -156,6 +157,11 @@ and when to execute the Scenes.
 @property (nonatomic,readwrite, assign) BOOL displayFPS;
 /** The OpenGLView, where everything is rendered */
 @property (nonatomic,readwrite,retain) CC_GLVIEW *openGLView;
+
+/** The external OpenGLView, where everything is rendered again */
+@property (nonatomic,readwrite,retain) CC_GLVIEW *externalOpenGLView;
+
+
 /** whether or not the next delta time will be zero */
 @property (nonatomic,readwrite,assign) BOOL nextDeltaTimeZero;
 /** Whether or not the Director is paused */

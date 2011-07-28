@@ -139,8 +139,12 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 
 /** OpenGL context */
 @property(nonatomic,readonly) EAGLContext *context;
+@property(nonatomic,readonly) id<ESRenderer> renderer;
+
 
 @property(nonatomic,readwrite) BOOL multiSampling;
+
+@property(nonatomic,readwrite) BOOL fixedSize;
 
 /** touch delegate */
 @property(nonatomic,readwrite,assign) id<EAGLTouchDelegate> touchDelegate;

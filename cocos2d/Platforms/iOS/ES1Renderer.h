@@ -67,6 +67,8 @@
 
 - (BOOL)resizeFromLayer:(CAEAGLLayer *)layer;
 
+- (void)bind;
+
 @end
 
 #endif // __IPHONE_OS_VERSION_MAX_ALLOWED

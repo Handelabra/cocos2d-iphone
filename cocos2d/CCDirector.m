@@ -296,6 +296,26 @@ static CCDirector *_sharedDirector = nil;
 	}
 }
 
+-(CC_GLVIEW*) externalOpenGLView
+{
+	return externalOpenGLView_;
+}
+
+-(void) setExternalOpenGLView:(CC_GLVIEW *)view
+{
+	//NSAssert( view, @"ExternalOpenGLView must be non-nil");
+    
+	if( view != externalOpenGLView_ ) {
+		[externalOpenGLView_ release];
+		externalOpenGLView_ = [view retain];
+		
+		// set size
+		//winSizeInPixels_ = winSizeInPoints_ = CCNSSizeToCGSize( [view bounds].size );
+        
+		[self setGLDefaultValues];
+	}
+}
+
 #pragma mark Director Scene Landscape
 
 -(CGPoint)convertToGL:(CGPoint)uiPoint
@@ -420,6 +440,9 @@ static CCDirector *_sharedDirector = nil;
 
 	[openGLView_ release];
 	openGLView_ = nil;	
+    
+    [externalOpenGLView_ release];
+	externalOpenGLView_ = nil;	
 }
 
 -(void) setNextScene

@@ -108,6 +108,12 @@
     return self;
 }
 
+- (void)bind
+{
+    glBindFramebufferOES(GL_FRAMEBUFFER_OES, defaultFramebuffer_);
+    glBindRenderbufferOES(GL_RENDERBUFFER_OES, colorRenderbuffer_);
+}
+
 - (BOOL)resizeFromLayer:(CAEAGLLayer *)layer
 {	
     // Allocate color buffer backing based on the current layer size

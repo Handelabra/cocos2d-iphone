@@ -40,6 +40,7 @@
 #import "../../CCTextureCache.h"
 #import "../../ccMacros.h"
 #import "../../CCScene.h"
+#import "ES1Renderer.h"
 
 // support imports
 #import "glu.h"
@@ -151,6 +152,8 @@ CGFloat	__ccContentScaleFactor = 1;
 	if( ! isPaused_ ) {
 		[[CCScheduler sharedScheduler] tick: dt];	
 	}
+    
+    [(ES1Renderer*)openGLView_.renderer bind];
 	
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	
@@ -184,6 +187,37 @@ CGFloat	__ccContentScaleFactor = 1;
 	glPopMatrix();
 	
 	[openGLView_ swapBuffers];
+    
+    // Draw the external openGL view if we have it
+    if (externalOpenGLView_)
+    {
+        [(ES1Renderer*)externalOpenGLView_.renderer bind];
+        
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+        
+        glPushMatrix();
+        
+        [self applyOrientation];
+        
+        // By default enable VertexArray, ColorArray, TextureCoordArray and Texture2D
+        CC_ENABLE_DEFAULT_GL_STATES();
+        
+        
+        [runningScene_ visit];
+        
+        if( displayFPS_ )
+            [self showFPS];
+        
+#if CC_ENABLE_PROFILERS
+        [self showProfilers];
+#endif
+        
+        CC_DISABLE_DEFAULT_GL_STATES();
+        
+        glPopMatrix();
+         
+        [externalOpenGLView_ swapBuffers];
+    }
 }
 
 -(void) setProjection:(ccDirectorProjection)projection
