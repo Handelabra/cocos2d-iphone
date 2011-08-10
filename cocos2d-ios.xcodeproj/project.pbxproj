@@ -2548,6 +2548,7 @@
 		E0FDACE7123DAC8300F25BB4 /* larabie-16-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACE5123DAC8300F25BB4 /* larabie-16-hd.png */; };
 		E0FDACE8123DAC8300F25BB4 /* larabie-16.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACE6123DAC8300F25BB4 /* larabie-16.png */; };
 		E0FDACEE123DAD0000F25BB4 /* tuffy_bold_italic-charmap-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACED123DAD0000F25BB4 /* tuffy_bold_italic-charmap-hd.png */; };
+		FDEBF55413F0E858006B9EB0 /* CDXPropertyModifierAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 50522A0C11B3E1E20061670F /* CDXPropertyModifierAction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -11440,6 +11441,7 @@
 				505224E011B3D3A80061670F /* CDOpenALSupport.m in Sources */,
 				505224E211B3D3A80061670F /* CocosDenshion.m in Sources */,
 				505224E411B3D3A80061670F /* SimpleAudioEngine.m in Sources */,
+				FDEBF55413F0E858006B9EB0 /* CDXPropertyModifierAction.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
