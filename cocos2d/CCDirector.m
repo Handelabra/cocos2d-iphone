@@ -309,10 +309,13 @@ static CCDirector *_sharedDirector = nil;
 		[externalOpenGLView_ release];
 		externalOpenGLView_ = [view retain];
 		
-		// set size
-		//winSizeInPixels_ = winSizeInPoints_ = CCNSSizeToCGSize( [view bounds].size );
-        
-		[self setGLDefaultValues];
+        if (view != nil)
+        {
+            // set size
+            //winSizeInPixels_ = winSizeInPoints_ = CCNSSizeToCGSize( [view bounds].size );
+            
+            [self setGLDefaultValues];
+        }
 	}
 }
 
