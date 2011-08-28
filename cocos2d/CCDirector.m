@@ -202,6 +202,10 @@ static CCDirector *_sharedDirector = nil;
 
 -(void) calculateDeltaTime
 {
+    // HACK: For video capture
+    dt = 1.0f / 60.0f;
+    return;
+    
 	struct timeval now;
 	
 	if( gettimeofday( &now, NULL) != 0 ) {

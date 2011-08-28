@@ -141,6 +141,8 @@ and when to execute the Scenes.
 #if CC_ENABLE_PROFILERS
 	ccTime accumDtForProfiler_;
 #endif
+    
+    NSUInteger videoFrameNumber;
 }
 
 /** returns the cocos2d thread.

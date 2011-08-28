@@ -53,6 +53,9 @@
 #import "../../Support/CCProfiling.h"
 #endif
 
+// HACK: For video capture
+CGImageRef UIGetScreenImage();
+
 
 #pragma mark -
 #pragma mark Director - global variables (optimization)
@@ -130,6 +133,9 @@ CGFloat	__ccContentScaleFactor = 1;
 		
 		// running thread is main thread on iOS
 		runningThread_ = [NSThread currentThread];
+        
+        // Set up video capture out file
+        
 	}
 	
 	return self;
@@ -218,6 +224,23 @@ CGFloat	__ccContentScaleFactor = 1;
          
         [externalOpenGLView_ swapBuffers];
     }
+    
+    // HACK: for video capture
+    CGImageRef cgScreen = UIGetScreenImage();
+	if (cgScreen)
+    {   
+        UIImage *image = [UIImage imageWithCGImage:cgScreen scale:1.0 orientation:UIImageOrientationLeft];
+        
+        NSURL *dir = [[[NSFileManager defaultManager] URLsForDirectory:NSDocumentDirectory inDomains:NSUserDomainMask] lastObject];
+        NSString *imageName = [NSString stringWithFormat:@"capture_%04d.png", videoFrameNumber];
+        NSURL *pathURL = [dir URLByAppendingPathComponent:imageName];
+        NSString *path = [pathURL path];
+        NSData *png = UIImagePNGRepresentation(image);
+        [png writeToFile:path atomically:YES];
+    }
+	CGImageRelease(cgScreen);
+    
+    videoFrameNumber++;
 }
 
 -(void) setProjection:(ccDirectorProjection)projection
