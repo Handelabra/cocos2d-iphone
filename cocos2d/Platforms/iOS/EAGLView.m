@@ -153,7 +153,7 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 		
 		CAEAGLLayer*			eaglLayer = (CAEAGLLayer*)[self layer];
 		
-		pixelformat_ = kEAGLColorFormatRGB565;
+		pixelformat_ = kEAGLColorFormatRGBA8;
 		depthFormat_ = 0; // GL_DEPTH_COMPONENT24_OES;
 		multiSampling_= NO;
 		requestedSamples_ = 0;
