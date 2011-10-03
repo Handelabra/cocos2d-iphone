@@ -11056,6 +11056,7 @@
 				E0E974AA1237E4EA00E3E64B /* MacGLView.m in Sources */,
 				E02BB6D7126CA93A006E46A2 /* CCAnimationCache.m in Sources */,
 				E02BB705126CADEA006E46A2 /* CCAnimation.m in Sources */,
+				A3AC21BA13D8AF7D0070373C /* ccCArray.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
