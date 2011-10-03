@@ -2576,6 +2576,7 @@
 		E0FDACE7123DAC8300F25BB4 /* larabie-16-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACE5123DAC8300F25BB4 /* larabie-16-hd.png */; };
 		E0FDACE8123DAC8300F25BB4 /* larabie-16.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACE6123DAC8300F25BB4 /* larabie-16.png */; };
 		E0FDACEE123DAD0000F25BB4 /* tuffy_bold_italic-charmap-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = E0FDACED123DAD0000F25BB4 /* tuffy_bold_italic-charmap-hd.png */; };
+		FD11191B143A7C9300B8E1A3 /* ccCArray.m in Sources */ = {isa = PBXBuildFile; fileRef = FD11191A143A7C9300B8E1A3 /* ccCArray.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -4501,6 +4502,7 @@
 		E0FDACE5123DAC8300F25BB4 /* larabie-16-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "larabie-16-hd.png"; sourceTree = "<group>"; };
 		E0FDACE6123DAC8300F25BB4 /* larabie-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "larabie-16.png"; sourceTree = "<group>"; };
 		E0FDACED123DAD0000F25BB4 /* tuffy_bold_italic-charmap-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tuffy_bold_italic-charmap-hd.png"; sourceTree = "<group>"; };
+		FD11191A143A7C9300B8E1A3 /* ccCArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ccCArray.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -6819,6 +6821,7 @@
 			isa = PBXGroup;
 			children = (
 				5080435011BEE8D60039CA83 /* ccCArray.h */,
+				FD11191A143A7C9300B8E1A3 /* ccCArray.m */,
 				508043DE11BEE9300039CA83 /* CCArray.h */,
 				5080435111BEE8D60039CA83 /* CCArray.m */,
 				50D898EF1192CB7500458C29 /* uthash.h */,
@@ -11056,7 +11059,7 @@
 				E0E974AA1237E4EA00E3E64B /* MacGLView.m in Sources */,
 				E02BB6D7126CA93A006E46A2 /* CCAnimationCache.m in Sources */,
 				E02BB705126CADEA006E46A2 /* CCAnimation.m in Sources */,
-				A3AC21BA13D8AF7D0070373C /* ccCArray.m in Sources */,
+				FD11191B143A7C9300B8E1A3 /* ccCArray.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
