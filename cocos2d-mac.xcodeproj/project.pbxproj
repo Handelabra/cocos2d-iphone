@@ -9664,7 +9664,7 @@
 			};
 			name = Debug;
 		};
-		C01FCF5008A954540054247B /* Release */ = {
+		C01FCF5008A954540054247B /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
@@ -9685,7 +9685,7 @@
 				USER_HEADER_SEARCH_PATHS = external/Chipmunk/include/chipmunk;
 				VALID_ARCHS = "i386 x86_64";
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E01E663E121CA00A001A484F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9698,7 +9698,7 @@
 			};
 			name = Debug;
 		};
-		E01E663F121CA00A001A484F /* Release */ = {
+		E01E663F121CA00A001A484F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9707,7 +9707,7 @@
 				PRODUCT_NAME = cocos2d;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E026451712A59DA7009D04FE /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9725,7 +9725,7 @@
 			};
 			name = Debug;
 		};
-		E026451812A59DA7009D04FE /* Release */ = {
+		E026451812A59DA7009D04FE /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9737,7 +9737,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = ParticleTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E05053FF122D5AE6005B74CB /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9755,7 +9755,7 @@
 			};
 			name = Debug;
 		};
-		E0505400122D5AE6005B74CB /* Release */ = {
+		E0505400122D5AE6005B74CB /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9767,7 +9767,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = RenderTextureTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E056C570134FF437001C3DFD /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9782,7 +9782,7 @@
 			};
 			name = Debug;
 		};
-		E056C571134FF437001C3DFD /* Release */ = {
+		E056C571134FF437001C3DFD /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9793,7 +9793,7 @@
 				VALID_ARCHS = "i386 x86_64";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E056C582134FF45A001C3DFD /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9807,7 +9807,7 @@
 			};
 			name = Debug;
 		};
-		E056C583134FF45A001C3DFD /* Release */ = {
+		E056C583134FF45A001C3DFD /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9817,7 +9817,7 @@
 				SDKROOT = macosx;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E056C58B134FF46D001C3DFD /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9831,7 +9831,7 @@
 			};
 			name = Debug;
 		};
-		E056C58C134FF46D001C3DFD /* Release */ = {
+		E056C58C134FF46D001C3DFD /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9841,7 +9841,7 @@
 				SDKROOT = macosx;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076E4451225C4BE00DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9859,7 +9859,7 @@
 			};
 			name = Debug;
 		};
-		E076E4461225C4BE00DE0DA2 /* Release */ = {
+		E076E4461225C4BE00DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9871,7 +9871,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = MenuTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076E5BE1225E97900DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9889,7 +9889,7 @@
 			};
 			name = Debug;
 		};
-		E076E5BF1225E97900DE0DA2 /* Release */ = {
+		E076E5BF1225E97900DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9901,7 +9901,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = TransitionTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076EB641225F7AB00DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9913,7 +9913,7 @@
 			};
 			name = Debug;
 		};
-		E076EB651225F7AB00DE0DA2 /* Release */ = {
+		E076EB651225F7AB00DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COPY_PHASE_STRIP = YES;
@@ -9921,7 +9921,7 @@
 				PRODUCT_NAME = "build-all";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076EC5E1225F82200DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9939,7 +9939,7 @@
 			};
 			name = Debug;
 		};
-		E076EC5F1225F82200DE0DA2 /* Release */ = {
+		E076EC5F1225F82200DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9951,7 +9951,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = TiledMapTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076EDA91225FDE300DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9969,7 +9969,7 @@
 			};
 			name = Debug;
 		};
-		E076EDAA1225FDE300DE0DA2 /* Release */ = {
+		E076EDAA1225FDE300DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -9981,7 +9981,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = TextureTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076EDBA1225FEAB00DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -9996,7 +9996,7 @@
 			};
 			name = Debug;
 		};
-		E076EDBB1225FEAB00DE0DA2 /* Release */ = {
+		E076EDBB1225FEAB00DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10007,7 +10007,7 @@
 				PRODUCT_NAME = libpng;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E076F21812268A9800DE0DA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10025,7 +10025,7 @@
 			};
 			name = Debug;
 		};
-		E076F21912268A9800DE0DA2 /* Release */ = {
+		E076F21912268A9800DE0DA2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10037,7 +10037,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = SpriteTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0AC06A31228021600EFA814 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10055,7 +10055,7 @@
 			};
 			name = Debug;
 		};
-		E0AC06A41228021600EFA814 /* Release */ = {
+		E0AC06A41228021600EFA814 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10067,7 +10067,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = ActionTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0AC0797122803BC00EFA814 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10085,7 +10085,7 @@
 			};
 			name = Debug;
 		};
-		E0AC0798122803BC00EFA814 /* Release */ = {
+		E0AC0798122803BC00EFA814 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10097,7 +10097,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = DrawingPrimitivesTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0AC092812280B7000EFA814 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10115,7 +10115,7 @@
 			};
 			name = Debug;
 		};
-		E0AC092912280B7000EFA814 /* Release */ = {
+		E0AC092912280B7000EFA814 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10127,7 +10127,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = LabelTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0B92DCB1226A0C9003FF67E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10145,7 +10145,7 @@
 			};
 			name = Debug;
 		};
-		E0B92DCC1226A0C9003FF67E /* Release */ = {
+		E0B92DCC1226A0C9003FF67E /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10157,7 +10157,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = ParallaxTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0B92EF41226A621003FF67E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10175,7 +10175,7 @@
 			};
 			name = Debug;
 		};
-		E0B92EF51226A621003FF67E /* Release */ = {
+		E0B92EF51226A621003FF67E /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10187,7 +10187,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = EffectsAdvacedTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0B930051226C0DD003FF67E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10205,7 +10205,7 @@
 			};
 			name = Debug;
 		};
-		E0B930061226C0DD003FF67E /* Release */ = {
+		E0B930061226C0DD003FF67E /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10217,7 +10217,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = ActionEaseTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0D2CEE012B93736008D5DBB /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10235,7 +10235,7 @@
 			};
 			name = Debug;
 		};
-		E0D2CEE112B93736008D5DBB /* Release */ = {
+		E0D2CEE112B93736008D5DBB /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10247,7 +10247,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = EventsTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0DA434012A03A3C00210ACE /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -10265,7 +10265,7 @@
 			};
 			name = Debug;
 		};
-		E0DA434112A03A3C00210ACE /* Release */ = {
+		E0DA434112A03A3C00210ACE /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -10277,7 +10277,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = FullScreenTest;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 /* End XCBuildConfiguration section */
 
@@ -10286,199 +10286,199 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,
-				C01FCF5008A954540054247B /* Release */,
+				C01FCF5008A954540054247B /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E01E6791121CA045001A484F /* Build configuration list for PBXNativeTarget "cocos2d" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E01E663E121CA00A001A484F /* Debug */,
-				E01E663F121CA00A001A484F /* Release */,
+				E01E663F121CA00A001A484F /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E026451612A59DA7009D04FE /* Build configuration list for PBXNativeTarget "ParticleTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E026451712A59DA7009D04FE /* Debug */,
-				E026451812A59DA7009D04FE /* Release */,
+				E026451812A59DA7009D04FE /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E05053FE122D5AE6005B74CB /* Build configuration list for PBXNativeTarget "RenderTextureTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E05053FF122D5AE6005B74CB /* Debug */,
-				E0505400122D5AE6005B74CB /* Release */,
+				E0505400122D5AE6005B74CB /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E056C59A134FF4B9001C3DFD /* Build configuration list for PBXNativeTarget "CocosDenshion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E056C570134FF437001C3DFD /* Debug */,
-				E056C571134FF437001C3DFD /* Release */,
+				E056C571134FF437001C3DFD /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E056C59B134FF4B9001C3DFD /* Build configuration list for PBXNativeTarget "Chipmunk" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E056C582134FF45A001C3DFD /* Debug */,
-				E056C583134FF45A001C3DFD /* Release */,
+				E056C583134FF45A001C3DFD /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E056C59C134FF4B9001C3DFD /* Build configuration list for PBXNativeTarget "Box2D" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E056C58B134FF46D001C3DFD /* Debug */,
-				E056C58C134FF46D001C3DFD /* Release */,
+				E056C58C134FF46D001C3DFD /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076E4441225C4BE00DE0DA2 /* Build configuration list for PBXNativeTarget "MenuTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076E4451225C4BE00DE0DA2 /* Debug */,
-				E076E4461225C4BE00DE0DA2 /* Release */,
+				E076E4461225C4BE00DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076E5BD1225E97900DE0DA2 /* Build configuration list for PBXNativeTarget "TransitionTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076E5BE1225E97900DE0DA2 /* Debug */,
-				E076E5BF1225E97900DE0DA2 /* Release */,
+				E076E5BF1225E97900DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076EB701225F7E000DE0DA2 /* Build configuration list for PBXAggregateTarget "build all tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076EB641225F7AB00DE0DA2 /* Debug */,
-				E076EB651225F7AB00DE0DA2 /* Release */,
+				E076EB651225F7AB00DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076EC5D1225F82200DE0DA2 /* Build configuration list for PBXNativeTarget "TiledMapTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076EC5E1225F82200DE0DA2 /* Debug */,
-				E076EC5F1225F82200DE0DA2 /* Release */,
+				E076EC5F1225F82200DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076EDA81225FDE300DE0DA2 /* Build configuration list for PBXNativeTarget "TextureTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076EDA91225FDE300DE0DA2 /* Debug */,
-				E076EDAA1225FDE300DE0DA2 /* Release */,
+				E076EDAA1225FDE300DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076EF2B1225FED100DE0DA2 /* Build configuration list for PBXNativeTarget "libpng" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076EDBA1225FEAB00DE0DA2 /* Debug */,
-				E076EDBB1225FEAB00DE0DA2 /* Release */,
+				E076EDBB1225FEAB00DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E076F21712268A9800DE0DA2 /* Build configuration list for PBXNativeTarget "SpriteTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E076F21812268A9800DE0DA2 /* Debug */,
-				E076F21912268A9800DE0DA2 /* Release */,
+				E076F21912268A9800DE0DA2 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0AC06A21228021600EFA814 /* Build configuration list for PBXNativeTarget "ActionTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0AC06A31228021600EFA814 /* Debug */,
-				E0AC06A41228021600EFA814 /* Release */,
+				E0AC06A41228021600EFA814 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0AC0796122803BC00EFA814 /* Build configuration list for PBXNativeTarget "DrawingPrimitivesTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0AC0797122803BC00EFA814 /* Debug */,
-				E0AC0798122803BC00EFA814 /* Release */,
+				E0AC0798122803BC00EFA814 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0AC092712280B7000EFA814 /* Build configuration list for PBXNativeTarget "LabelTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0AC092812280B7000EFA814 /* Debug */,
-				E0AC092912280B7000EFA814 /* Release */,
+				E0AC092912280B7000EFA814 /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0B92DCA1226A0C9003FF67E /* Build configuration list for PBXNativeTarget "ParallaxTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0B92DCB1226A0C9003FF67E /* Debug */,
-				E0B92DCC1226A0C9003FF67E /* Release */,
+				E0B92DCC1226A0C9003FF67E /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0B92EF31226A621003FF67E /* Build configuration list for PBXNativeTarget "EffectsAdvancedTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0B92EF41226A621003FF67E /* Debug */,
-				E0B92EF51226A621003FF67E /* Release */,
+				E0B92EF51226A621003FF67E /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0B930041226C0DD003FF67E /* Build configuration list for PBXNativeTarget "ActionEaseTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0B930051226C0DD003FF67E /* Debug */,
-				E0B930061226C0DD003FF67E /* Release */,
+				E0B930061226C0DD003FF67E /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0D2CEDF12B93736008D5DBB /* Build configuration list for PBXNativeTarget "EventsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0D2CEE012B93736008D5DBB /* Debug */,
-				E0D2CEE112B93736008D5DBB /* Release */,
+				E0D2CEE112B93736008D5DBB /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0DA433F12A03A3C00210ACE /* Build configuration list for PBXNativeTarget "FullScreenTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0DA434012A03A3C00210ACE /* Debug */,
-				E0DA434112A03A3C00210ACE /* Release */,
+				E0DA434112A03A3C00210ACE /* Cupcakes */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 /* End XCConfigurationList section */
 	};
