@@ -78,6 +78,7 @@
 }
 
 @property (nonatomic, readwrite, assign) id<MacEventDelegate> eventDelegate;
+@property (nonatomic, readwrite, assign) BOOL isOpaque;
 
 // initializes the MacGLView with a frame rect and an OpenGL context
 - (id) initWithFrame:(NSRect)frameRect shareContext:(NSOpenGLContext*)context;

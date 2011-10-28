@@ -43,6 +43,7 @@
 @implementation MacGLView
 
 @synthesize eventDelegate = eventDelegate_;
+@synthesize isOpaque = isOpaque_;
 
 +(void) load_
 {
