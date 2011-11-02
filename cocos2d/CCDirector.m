@@ -87,6 +87,8 @@ extern NSString * cocos2dVersion(void);
 @synthesize notificationNode = notificationNode_;
 @synthesize projectionDelegate = projectionDelegate_;
 @synthesize totalFrames = totalFrames_;
+@synthesize fixedFrameRate = fixedFrameRate_;
+
 //
 // singleton stuff
 //
@@ -203,6 +205,13 @@ static CCDirector *_sharedDirector = nil;
 
 -(void) calculateDeltaTime
 {
+    // If capturing video, use a fixed FPS
+    if (fixedFrameRate_ > 0)
+    {
+        dt = 1.0f / fixedFrameRate_;
+        return;
+    }
+    
 	struct timeval now;
 	
 	if( gettimeofday( &now, NULL) != 0 ) {

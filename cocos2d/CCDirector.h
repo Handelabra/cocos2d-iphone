@@ -138,6 +138,8 @@ and when to execute the Scenes.
 
 	/* the cocos2d running thread */
 	NSThread	*runningThread_;
+    
+    NSUInteger videoFrameNumber;
 
 	// profiler
 #if CC_ENABLE_PROFILERS
@@ -157,6 +159,10 @@ and when to execute the Scenes.
 @property (nonatomic,readwrite, assign) NSTimeInterval animationInterval;
 /** Whether or not to display the FPS on the bottom-left corner */
 @property (nonatomic,readwrite, assign) BOOL displayFPS;
+
+/** If greater than zero, use a fixed FPS */
+@property (nonatomic,readwrite, assign) float fixedFrameRate;
+
 /** The OpenGLView, where everything is rendered */
 @property (nonatomic,readwrite,retain) CC_GLVIEW *openGLView;
 
