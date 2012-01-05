@@ -133,7 +133,9 @@ NSString *ccRemoveHDSuffixFromFile( NSString *path )
 		if( [__localFileManager fileExistsAtPath:retinaName] )
 			return retinaName;
 
-		CCLOG(@"cocos2d: CCFileUtils: Warning HD file not found: %@", [retinaName lastPathComponent] );
+        // disable HD warning
+        // UncleSlam does not use a highres suffix so this was becomming spammy
+		//CCLOG(@"cocos2d: CCFileUtils: Warning HD file not found: %@", [retinaName lastPathComponent] );
 	}
 	
 #endif // CC_IS_RETINA_DISPLAY_SUPPORTED
