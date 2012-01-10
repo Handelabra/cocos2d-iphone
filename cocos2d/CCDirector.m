@@ -586,6 +586,7 @@ static CCDirector *_sharedDirector = nil;
 }
 #endif
 
+
 - (void) showProfilers {
 #if CC_ENABLE_PROFILERS
 	accumDtForProfiler_ += dt;
