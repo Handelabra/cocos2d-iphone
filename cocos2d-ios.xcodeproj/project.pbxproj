@@ -13233,7 +13233,7 @@
 			};
 			name = Debug;
 		};
-		05AAF3E310EE85B300CACA2B /* Release */ = {
+		05AAF3E310EE85B300CACA2B /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13255,7 +13255,7 @@
 				PRODUCT_NAME = MenuTestWithBlocks;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		05CA7B0210ED674700F12774 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13280,7 +13280,7 @@
 			};
 			name = Debug;
 		};
-		05CA7B0310ED674700F12774 /* Release */ = {
+		05CA7B0310ED674700F12774 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13301,7 +13301,7 @@
 				PRODUCT_NAME = ActionsWithBlocksSample;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		495E73FA104B74E30012BB52 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13325,7 +13325,7 @@
 			};
 			name = Debug;
 		};
-		495E73FB104B74E30012BB52 /* Release */ = {
+		495E73FB104B74E30012BB52 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13345,7 +13345,7 @@
 				PRODUCT_NAME = RenderTextureTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50010ED0103B3DB80059EC2E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13373,7 +13373,7 @@
 			};
 			name = Debug;
 		};
-		50010ED1103B3DB80059EC2E /* Release */ = {
+		50010ED1103B3DB80059EC2E /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
@@ -13397,7 +13397,7 @@
 				USER_HEADER_SEARCH_PATHS = "external/Box2d/Testbed/Tests/ external/Box2d";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5012DD390FE2994300D6DDD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13422,7 +13422,7 @@
 			};
 			name = Debug;
 		};
-		5012DD3A0FE2994300D6DDD1 /* Release */ = {
+		5012DD3A0FE2994300D6DDD1 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13443,7 +13443,7 @@
 				PRODUCT_NAME = TouchesTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		501504EB11330E1700A9CA65 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13468,7 +13468,7 @@
 			};
 			name = Debug;
 		};
-		501504EC11330E1700A9CA65 /* Release */ = {
+		501504EC11330E1700A9CA65 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13489,7 +13489,7 @@
 				PRODUCT_NAME = ProgressActionsTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5018F24E0DFDEAC500C013A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13510,7 +13510,7 @@
 			};
 			name = Debug;
 		};
-		5018F24F0DFDEAC500C013A5 /* Release */ = {
+		5018F24F0DFDEAC500C013A5 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13527,7 +13527,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		501945720F964C620059CE7C /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13552,7 +13552,7 @@
 			};
 			name = Debug;
 		};
-		501945730F964C620059CE7C /* Release */ = {
+		501945730F964C620059CE7C /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13573,7 +13573,7 @@
 				PRODUCT_NAME = drawPrimitivesTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		501C7C8F0F91EFFF0024A296 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13598,7 +13598,7 @@
 			};
 			name = Debug;
 		};
-		501C7C900F91EFFF0024A296 /* Release */ = {
+		501C7C900F91EFFF0024A296 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13619,7 +13619,7 @@
 				PRODUCT_NAME = SpriteTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		502BF56711E39CC30030C477 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13644,7 +13644,7 @@
 			};
 			name = Debug;
 		};
-		502BF56811E39CC30030C477 /* Release */ = {
+		502BF56811E39CC30030C477 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13665,7 +13665,7 @@
 				PRODUCT_NAME = Bug914;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		502C65EF0DFEF3DE00E4107D /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13679,7 +13679,7 @@
 			};
 			name = Debug;
 		};
-		502C65F00DFEF3DE00E4107D /* Release */ = {
+		502C65F00DFEF3DE00E4107D /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13689,7 +13689,7 @@
 				PRODUCT_NAME = "cocos2d-documentation";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		502C661B0DFEFCCA00E4107D /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13714,7 +13714,7 @@
 			};
 			name = Debug;
 		};
-		502C661C0DFEFCCA00E4107D /* Release */ = {
+		502C661C0DFEFCCA00E4107D /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13735,7 +13735,7 @@
 				PRODUCT_NAME = RotateWorldTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		503164CE10277666003ACFE7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13749,7 +13749,7 @@
 			};
 			name = Debug;
 		};
-		503164CF10277666003ACFE7 /* Release */ = {
+		503164CF10277666003ACFE7 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13759,7 +13759,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		503F5CBC101FE930002A37E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13784,7 +13784,7 @@
 			};
 			name = Debug;
 		};
-		503F5CBD101FE930002A37E5 /* Release */ = {
+		503F5CBD101FE930002A37E5 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13805,7 +13805,7 @@
 				PRODUCT_NAME = TileMapTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		504225710FC0B39D00B992F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13823,7 +13823,7 @@
 			};
 			name = Debug;
 		};
-		504225720FC0B39D00B992F7 /* Release */ = {
+		504225720FC0B39D00B992F7 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13838,7 +13838,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5042262C0FC0B5D500B992F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13866,7 +13866,7 @@
 			};
 			name = Debug;
 		};
-		5042262D0FC0B5D500B992F7 /* Release */ = {
+		5042262D0FC0B5D500B992F7 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
@@ -13890,7 +13890,7 @@
 				USER_HEADER_SEARCH_PATHS = external/Box2d/;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		504799AF100F6A4200D1C71A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13915,7 +13915,7 @@
 			};
 			name = Debug;
 		};
-		504799B0100F6A4200D1C71A /* Release */ = {
+		504799B0100F6A4200D1C71A /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13936,7 +13936,7 @@
 				PRODUCT_NAME = LayerTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5048288D0F45AED800A30CEF /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -13961,7 +13961,7 @@
 			};
 			name = Debug;
 		};
-		5048288E0F45AED800A30CEF /* Release */ = {
+		5048288E0F45AED800A30CEF /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -13982,7 +13982,7 @@
 				PRODUCT_NAME = AttachTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		504CC32D1035BDE90096894C /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14007,7 +14007,7 @@
 			};
 			name = Debug;
 		};
-		504CC32E1035BDE90096894C /* Release */ = {
+		504CC32E1035BDE90096894C /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14028,7 +14028,7 @@
 				PRODUCT_NAME = ActionManagerTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		504E17DF11C4C7E400E19835 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14053,7 +14053,7 @@
 			};
 			name = Debug;
 		};
-		504E17E011C4C7E400E19835 /* Release */ = {
+		504E17E011C4C7E400E19835 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14074,7 +14074,7 @@
 				PRODUCT_NAME = EAGLViewTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		505224FC11B3D4710061670F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14098,7 +14098,7 @@
 			};
 			name = Debug;
 		};
-		505224FD11B3D4710061670F /* Release */ = {
+		505224FD11B3D4710061670F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14118,7 +14118,7 @@
 				PRODUCT_NAME = "CocosDenshion - Tom The Turret";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		505228B811B3DBB90061670F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14142,7 +14142,7 @@
 			};
 			name = Debug;
 		};
-		505228B911B3DBB90061670F /* Release */ = {
+		505228B911B3DBB90061670F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14162,7 +14162,7 @@
 				PRODUCT_NAME = "CocosDenshion - Drum Pad";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5052293A11B3DCD80061670F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14186,7 +14186,7 @@
 			};
 			name = Debug;
 		};
-		5052293B11B3DCD80061670F /* Release */ = {
+		5052293B11B3DCD80061670F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14206,7 +14206,7 @@
 				PRODUCT_NAME = "CocosDenshion - Fade To Grey";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5052296C11B3DCE90061670F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14230,7 +14230,7 @@
 			};
 			name = Debug;
 		};
-		5052296D11B3DCE90061670F /* Release */ = {
+		5052296D11B3DCE90061670F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14250,7 +14250,7 @@
 				PRODUCT_NAME = "CocosDenshion - FancyRat Metering Demo";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		505461F210616AE200AB7C52 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14264,7 +14264,7 @@
 			};
 			name = Debug;
 		};
-		505461F310616AE200AB7C52 /* Release */ = {
+		505461F310616AE200AB7C52 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14274,7 +14274,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		505B62D40F2E6A0F001B4104 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14300,7 +14300,7 @@
 			};
 			name = Debug;
 		};
-		505B62D50F2E6A0F001B4104 /* Release */ = {
+		505B62D50F2E6A0F001B4104 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14322,7 +14322,7 @@
 				PRODUCT_NAME = Texture2dTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		505B63A10F2F4210001B4104 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14347,7 +14347,7 @@
 			};
 			name = Debug;
 		};
-		505B63A20F2F4210001B4104 /* Release */ = {
+		505B63A20F2F4210001B4104 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14368,7 +14368,7 @@
 				PRODUCT_NAME = EaseActionsTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		506144060E589A2E003CCDB7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14393,7 +14393,7 @@
 			};
 			name = Debug;
 		};
-		506144070E589A2E003CCDB7 /* Release */ = {
+		506144070E589A2E003CCDB7 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14414,7 +14414,7 @@
 				PRODUCT_NAME = cocosnodeTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5068820F0E95761200F943E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14440,7 +14440,7 @@
 			};
 			name = Debug;
 		};
-		506882100E95761200F943E5 /* Release */ = {
+		506882100E95761200F943E5 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14462,7 +14462,7 @@
 				PRODUCT_NAME = LabelTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		506C77E00E01520900B48100 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14487,7 +14487,7 @@
 			};
 			name = Debug;
 		};
-		506C77E10E01520900B48100 /* Release */ = {
+		506C77E10E01520900B48100 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14508,7 +14508,7 @@
 				PRODUCT_NAME = ClickAndMoveTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		506C7A070E01C73A00B48100 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14533,7 +14533,7 @@
 			};
 			name = Debug;
 		};
-		506C7A080E01C73A00B48100 /* Release */ = {
+		506C7A080E01C73A00B48100 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14554,7 +14554,7 @@
 				PRODUCT_NAME = MenuTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		506C800C0E041C9300B48100 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14579,7 +14579,7 @@
 			};
 			name = Debug;
 		};
-		506C800D0E041C9300B48100 /* Release */ = {
+		506C800D0E041C9300B48100 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14600,7 +14600,7 @@
 				PRODUCT_NAME = SceneTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		5078B52D0E3E43540004233A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14625,7 +14625,7 @@
 			};
 			name = Debug;
 		};
-		5078B52E0E3E43540004233A /* Release */ = {
+		5078B52E0E3E43540004233A /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14646,7 +14646,7 @@
 				PRODUCT_NAME = IntervalTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		507C0F0911D609290075E747 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14671,7 +14671,7 @@
 			};
 			name = Debug;
 		};
-		507C0F0A11D609290075E747 /* Release */ = {
+		507C0F0A11D609290075E747 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14692,7 +14692,7 @@
 				PRODUCT_NAME = Bug899;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		507FF8F0116D16F600B6FAB2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14717,7 +14717,7 @@
 			};
 			name = Debug;
 		};
-		507FF8F1116D16F600B6FAB2 /* Release */ = {
+		507FF8F1116D16F600B6FAB2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14738,7 +14738,7 @@
 				PRODUCT_NAME = Bug350;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		508CA7D81193270F003AC397 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14763,7 +14763,7 @@
 			};
 			name = Debug;
 		};
-		508CA7D91193270F003AC397 /* Release */ = {
+		508CA7D91193270F003AC397 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14784,7 +14784,7 @@
 				PRODUCT_NAME = SchedulerTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		509807091175041B00EA7266 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14797,7 +14797,7 @@
 			};
 			name = Debug;
 		};
-		5098070A1175041B00EA7266 /* Release */ = {
+		5098070A1175041B00EA7266 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14806,7 +14806,7 @@
 				PRODUCT_NAME = "build all tests";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		509B39E00F31020B00F2FB95 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14820,7 +14820,7 @@
 			};
 			name = Debug;
 		};
-		509B39E10F31020B00F2FB95 /* Release */ = {
+		509B39E10F31020B00F2FB95 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14830,7 +14830,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		509B3A0E0F31024F00F2FB95 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14848,7 +14848,7 @@
 			};
 			name = Debug;
 		};
-		509B3A0F0F31024F00F2FB95 /* Release */ = {
+		509B3A0F0F31024F00F2FB95 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14862,7 +14862,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		509B3A2B0F3102FE00F2FB95 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14886,7 +14886,7 @@
 			};
 			name = Debug;
 		};
-		509B3A2C0F3102FE00F2FB95 /* Release */ = {
+		509B3A2C0F3102FE00F2FB95 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14906,7 +14906,7 @@
 				PRODUCT_NAME = cocosLiveTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50A24E420F377FA1007CAEB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14931,7 +14931,7 @@
 			};
 			name = Debug;
 		};
-		50A24E430F377FA1007CAEB0 /* Release */ = {
+		50A24E430F377FA1007CAEB0 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14952,7 +14952,7 @@
 				PRODUCT_NAME = EffectsTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50A783C20F3AFCE500104C45 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -14977,7 +14977,7 @@
 			};
 			name = Debug;
 		};
-		50A783C30F3AFCE500104C45 /* Release */ = {
+		50A783C30F3AFCE500104C45 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -14998,7 +14998,7 @@
 				PRODUCT_NAME = MotionStreakTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50B2C4D20E100AEB00AE9530 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15017,7 +15017,7 @@
 			};
 			name = Debug;
 		};
-		50B2C4D30E100AEB00AE9530 /* Release */ = {
+		50B2C4D30E100AEB00AE9530 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
@@ -15033,7 +15033,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50B2C5E60E100EF000AE9530 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15058,7 +15058,7 @@
 			};
 			name = Debug;
 		};
-		50B2C5E70E100EF000AE9530 /* Release */ = {
+		50B2C5E70E100EF000AE9530 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15079,7 +15079,7 @@
 				PRODUCT_NAME = ChipmunkAccelTouchTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50B2CE490E129FDA00AE9530 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15104,7 +15104,7 @@
 			};
 			name = Debug;
 		};
-		50B2CE4A0E129FDA00AE9530 /* Release */ = {
+		50B2CE4A0E129FDA00AE9530 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15125,7 +15125,7 @@
 				PRODUCT_NAME = ChipmunkTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50C1955E0EE4B57E00829067 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15150,7 +15150,7 @@
 			};
 			name = Debug;
 		};
-		50C1955F0EE4B57E00829067 /* Release */ = {
+		50C1955F0EE4B57E00829067 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15171,7 +15171,7 @@
 				PRODUCT_NAME = ParallaxTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50C938DE0E0A9DBB00517B01 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15196,7 +15196,7 @@
 			};
 			name = Debug;
 		};
-		50C938DF0E0A9DBB00517B01 /* Release */ = {
+		50C938DF0E0A9DBB00517B01 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15217,7 +15217,7 @@
 				PRODUCT_NAME = TransitionsTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50C93AAB0E0BF6E000517B01 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15242,7 +15242,7 @@
 			};
 			name = Debug;
 		};
-		50C93AAC0E0BF6E000517B01 /* Release */ = {
+		50C93AAC0E0BF6E000517B01 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15263,7 +15263,7 @@
 				PRODUCT_NAME = ActionsTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50CB2FE31004C8B200B7A750 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15277,7 +15277,7 @@
 			};
 			name = Debug;
 		};
-		50CB2FE41004C8B200B7A750 /* Release */ = {
+		50CB2FE41004C8B200B7A750 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15287,7 +15287,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50CBA48511CBD6FB007B009D /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15312,7 +15312,7 @@
 			};
 			name = Debug;
 		};
-		50CBA48611CBD6FB007B009D /* Release */ = {
+		50CBA48611CBD6FB007B009D /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15333,7 +15333,7 @@
 				PRODUCT_NAME = Bug886;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50D0E05D0FF9232E00098927 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15358,7 +15358,7 @@
 			};
 			name = Debug;
 		};
-		50D0E05E0FF9232E00098927 /* Release */ = {
+		50D0E05E0FF9232E00098927 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15379,7 +15379,7 @@
 				PRODUCT_NAME = HelloActionsSample;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50D0E0DC0FF930BA00098927 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15404,7 +15404,7 @@
 			};
 			name = Debug;
 		};
-		50D0E0DD0FF930BA00098927 /* Release */ = {
+		50D0E0DD0FF930BA00098927 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15425,7 +15425,7 @@
 				PRODUCT_NAME = HelloEventsSample;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50D56FD00F3FABEC007CD6B9 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15450,7 +15450,7 @@
 			};
 			name = Debug;
 		};
-		50D56FD10F3FABEC007CD6B9 /* Release */ = {
+		50D56FD10F3FABEC007CD6B9 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15471,7 +15471,7 @@
 				PRODUCT_NAME = EffectsAdvancedTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50DB1BC80E1C1E5900A89DFF /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15496,7 +15496,7 @@
 			};
 			name = Debug;
 		};
-		50DB1BC90E1C1E5900A89DFF /* Release */ = {
+		50DB1BC90E1C1E5900A89DFF /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15517,7 +15517,7 @@
 				PRODUCT_NAME = ParticleTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50DFC29D0FF627B6007E7827 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15542,7 +15542,7 @@
 			};
 			name = Debug;
 		};
-		50DFC29E0FF627B6007E7827 /* Release */ = {
+		50DFC29E0FF627B6007E7827 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15563,7 +15563,7 @@
 				PRODUCT_NAME = HelloWorldSample;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		50E77D1011D4C925009CA2C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15588,7 +15588,7 @@
 			};
 			name = Debug;
 		};
-		50E77D1111D4C925009CA2C2 /* Release */ = {
+		50E77D1111D4C925009CA2C2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15609,7 +15609,7 @@
 				PRODUCT_NAME = HiResTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		8E6CBEF00F7A758100D47B3A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15624,7 +15624,7 @@
 			};
 			name = Debug;
 		};
-		8E6CBEF10F7A758100D47B3A /* Release */ = {
+		8E6CBEF10F7A758100D47B3A /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15635,7 +15635,7 @@
 				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		8EDF3ED60F6BDA0000F54643 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15660,7 +15660,7 @@
 			};
 			name = Debug;
 		};
-		8EDF3ED70F6BDA0000F54643 /* Release */ = {
+		8EDF3ED70F6BDA0000F54643 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15682,7 +15682,7 @@
 				PRODUCT_NAME = SoundEngineTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		A0240F16139E3AE50075D13F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15704,7 +15704,7 @@
 			};
 			name = Debug;
 		};
-		A0240F17139E3AE50075D13F /* Release */ = {
+		A0240F17139E3AE50075D13F /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15722,7 +15722,7 @@
 				PRODUCT_NAME = TestCocos2dExtension;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		A031C5B5139543A70072E9F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15744,7 +15744,7 @@
 			};
 			name = Debug;
 		};
-		A031C5B6139543A70072E9F9 /* Release */ = {
+		A031C5B6139543A70072E9F9 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15762,7 +15762,7 @@
 				PRODUCT_NAME = Bug1174;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		A094A9C214436D9A0055E239 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15787,7 +15787,7 @@
 			};
 			name = Debug;
 		};
-		A094A9C314436D9A0055E239 /* Release */ = {
+		A094A9C314436D9A0055E239 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15808,7 +15808,7 @@
 				PRODUCT_NAME = ParticleBatchTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15848,7 +15848,7 @@
 			};
 			name = Debug;
 		};
-		C01FCF5008A954540054247B /* Release */ = {
+		C01FCF5008A954540054247B /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15883,7 +15883,7 @@
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		DA5F0EE20FFE96D400C7C82E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15908,7 +15908,7 @@
 			};
 			name = Debug;
 		};
-		DA5F0EE30FFE96D400C7C82E /* Release */ = {
+		DA5F0EE30FFE96D400C7C82E /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15929,7 +15929,7 @@
 				PRODUCT_NAME = Bug422;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		DAABAA981059A42E00794EB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15951,7 +15951,7 @@
 			};
 			name = Debug;
 		};
-		DAABAA991059A42E00794EB3 /* Release */ = {
+		DAABAA991059A42E00794EB3 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -15969,7 +15969,7 @@
 				PRODUCT_NAME = FontTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E02BC2CB1270E489006E46A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -15994,7 +15994,7 @@
 			};
 			name = Debug;
 		};
-		E02BC2CC1270E489006E46A2 /* Release */ = {
+		E02BC2CC1270E489006E46A2 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -16015,7 +16015,7 @@
 				PRODUCT_NAME = Bug624;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E037DA4A1281C7F0003D39D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -16040,7 +16040,7 @@
 			};
 			name = Debug;
 		};
-		E037DA4B1281C7F0003D39D7 /* Release */ = {
+		E037DA4B1281C7F0003D39D7 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -16061,7 +16061,7 @@
 				PRODUCT_NAME = Bug458;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0A8C2C5133C335500297B76 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -16086,7 +16086,7 @@
 			};
 			name = Debug;
 		};
-		E0A8C2C6133C335500297B76 /* Release */ = {
+		E0A8C2C6133C335500297B76 /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -16107,7 +16107,7 @@
 				PRODUCT_NAME = DirectorTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0BD926E134B744600E71F1D /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -16129,7 +16129,7 @@
 			};
 			name = Debug;
 		};
-		E0BD926F134B744600E71F1D /* Release */ = {
+		E0BD926F134B744600E71F1D /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -16147,7 +16147,7 @@
 				PRODUCT_NAME = Bug1159;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
 		};
 		E0C5588411FE48E600B9E4CB /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -16172,7 +16172,7 @@
 			};
 			name = Debug;
 		};
-		E0C5588511FE48E600B9E4CB /* Release */ = {
+		E0C5588511FE48E600B9E4CB /* Cupcakes */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -16193,7 +16193,2995 @@
 				PRODUCT_NAME = ZwoptexTest;
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Cupcakes;
+		};
+		FD17937714C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COMPRESS_PNG_FILES = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = ".git *.nib *.lproj *.framework *.gch *.xcode* (*) CVS .svn";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_FAST_MATH = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					NS_BLOCK_ASSERTIONS,
+					NDEBUG,
+				);
+				GCC_STRICT_ALIASING = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_THUMB_SUPPORT = YES;
+				"GCC_THUMB_SUPPORT[arch=armv6]" = NO;
+				"GCC_THUMB_SUPPORT[arch=armv7]" = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS = YES;
+				GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Distribution;
+		};
+		FD17937814C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = "build all tests";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937914C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				HEADER_SEARCH_PATHS = external/Box2d;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "";
+				OTHER_CFLAGS = "";
+				PRODUCT_NAME = box2d;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937A14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				HEADER_SEARCH_PATHS = external/Chipmunk/include/chipmunk;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Chipmunk/MSVCSolution\"",
+				);
+				OTHER_CFLAGS = "";
+				PRODUCT_NAME = Chipmunk;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937B14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_OBJC_IMPLICIT_ATOMIC_PROPERTIES = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DOXYGEN_PATH = /Applications/Doxygen.app/Contents/Resources/doxygen;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/build/Debug-iphonesimulator\"",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937C14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DOXYGEN_PATH = /Applications/Doxygen.app/Contents/Resources/doxygen;
+				PRODUCT_NAME = "cocos2d-documentation";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937D14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937E14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/build/Debug-iphonesimulator\"",
+				);
+				PRODUCT_NAME = "cocos Live";
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17937F14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = FontLabel;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938014C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = libpng;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938114C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = TouchJSON;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938214C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				PRODUCT_NAME = vorbis;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938314C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionManagerTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938414C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938514C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionsWithBlocksSample;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938614C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "tests/attachDemo/AttachDemo-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = AttachTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938714C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Box2dAccelTouchTest;
+				USER_HEADER_SEARCH_PATHS = external/Box2d/;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938814C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Box2dTestBed;
+				USER_HEADER_SEARCH_PATHS = "external/Box2d/Testbed/Tests/ external/Box2d";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938914C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ChipmunkAccelTouchTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938A14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "Resources/ChipmunkDemo-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ChipmunkTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938B14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ClickAndMoveTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938C14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/TomTheTurret/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Tom The Turret";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938D14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/DrumPad/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Drum Pad";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938E14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/FadeToGrey/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Fade To Grey";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17938F14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/FancyRatMeteringDemo/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - FancyRat Metering Demo";
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939014C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = tests/cocosLive/cocosLiveInfo.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = cocosLiveTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939114C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = cocosnodeTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939214C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = DirectorTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939314C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = drawPrimitivesTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939414C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "tests/EAGLViewTest/EAGLViewTest-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EAGLViewTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939514C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EaseActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939614C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EffectsTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939714C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EffectsAdvancedTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939814C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_NAME = FontTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939914C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = IntervalTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939A14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HiResTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939B14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = LabelTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939C14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = LayerTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939D14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/InfoWithStatusBar.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = MenuTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939E14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/InfoWithStatusBar.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+					"-all_load",
+				);
+				PRODUCT_NAME = MenuTestWithBlocks;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD17939F14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = MotionStreakTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A014C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParallaxTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A114C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParticleTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A214C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParticleBatchTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A314C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SoundEngineTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A414C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ProgressActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A514C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = RenderTextureTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A614C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = RotateWorldTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A714C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SceneTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A814C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SchedulerTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793A914C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SpriteTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AA14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = TestCocos2dExtension;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AB14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COMPRESS_PNG_FILES = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Texture2dTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AC14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TileMapTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AD14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TouchesTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AE14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TransitionsTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793AF14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ZwoptexTest;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B014C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloWorldSample;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B114C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloActionsSample;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B214C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloEventsSample;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B314C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug350;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B414C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug422;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B514C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug458;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B614C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug624;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B714C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug886;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B814C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug899;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793B914C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug914;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793BA14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = Bug1159;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793BB14C531C800E859EE /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = Bug1174;
+				ZERO_LINK = NO;
+			};
+			name = Distribution;
+		};
+		FD1793BC14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COMPRESS_PNG_FILES = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = ".git *.nib *.lproj *.framework *.gch *.xcode* (*) CVS .svn";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_FAST_MATH = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					NS_BLOCK_ASSERTIONS,
+					NDEBUG,
+				);
+				GCC_STRICT_ALIASING = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_THUMB_SUPPORT = YES;
+				"GCC_THUMB_SUPPORT[arch=armv6]" = NO;
+				"GCC_THUMB_SUPPORT[arch=armv7]" = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS = YES;
+				GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = TestFlight;
+		};
+		FD1793BD14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = "build all tests";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793BE14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				HEADER_SEARCH_PATHS = external/Box2d;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "";
+				OTHER_CFLAGS = "";
+				PRODUCT_NAME = box2d;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793BF14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				HEADER_SEARCH_PATHS = external/Chipmunk/include/chipmunk;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Chipmunk/MSVCSolution\"",
+				);
+				OTHER_CFLAGS = "";
+				PRODUCT_NAME = Chipmunk;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C014C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_OBJC_IMPLICIT_ATOMIC_PROPERTIES = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DOXYGEN_PATH = /Applications/Doxygen.app/Contents/Resources/doxygen;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/build/Debug-iphonesimulator\"",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C114C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DOXYGEN_PATH = /Applications/Doxygen.app/Contents/Resources/doxygen;
+				PRODUCT_NAME = "cocos2d-documentation";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C214C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C314C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/build/Debug-iphonesimulator\"",
+				);
+				PRODUCT_NAME = "cocos Live";
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C414C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = FontLabel;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C514C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = libpng;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C614C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				PRODUCT_NAME = TouchJSON;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C714C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				PRODUCT_NAME = vorbis;
+				SKIP_INSTALL = YES;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C814C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionManagerTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793C914C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CA14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ActionsWithBlocksSample;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CB14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "tests/attachDemo/AttachDemo-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = AttachTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CC14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Box2dAccelTouchTest;
+				USER_HEADER_SEARCH_PATHS = external/Box2d/;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CD14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = NO;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Box2dTestBed;
+				USER_HEADER_SEARCH_PATHS = "external/Box2d/Testbed/Tests/ external/Box2d";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CE14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ChipmunkAccelTouchTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793CF14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "Resources/ChipmunkDemo-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ChipmunkTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D014C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ClickAndMoveTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D114C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/TomTheTurret/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Tom The Turret";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D214C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/DrumPad/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Drum Pad";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D314C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/FadeToGrey/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - Fade To Grey";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D414C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = CocosDenshion/TestsAndDemos/FancyRatMeteringDemo/Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = "CocosDenshion - FancyRat Metering Demo";
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D514C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = tests/cocosLive/cocosLiveInfo.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = cocosLiveTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D614C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = cocosnodeTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D714C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = DirectorTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D814C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = drawPrimitivesTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793D914C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "tests/EAGLViewTest/EAGLViewTest-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EAGLViewTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DA14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EaseActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DB14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EffectsTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DC14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = EffectsAdvancedTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DD14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_NAME = FontTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DE14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = IntervalTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793DF14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HiResTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E014C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = LabelTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E114C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = LayerTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E214C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/InfoWithStatusBar.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = MenuTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E314C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/InfoWithStatusBar.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+					"-all_load",
+				);
+				PRODUCT_NAME = MenuTestWithBlocks;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E414C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = MotionStreakTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E514C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParallaxTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E614C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParticleTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E714C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ParticleBatchTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E814C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SoundEngineTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793E914C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ProgressActionsTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793EA14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = RenderTextureTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793EB14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = RotateWorldTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793EC14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SceneTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793ED14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SchedulerTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793EE14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = SpriteTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793EF14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = TestCocos2dExtension;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F014C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COMPRESS_PNG_FILES = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Texture2dTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F114C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TileMapTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F214C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TouchesTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F314C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = TransitionsTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F414C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = ZwoptexTest;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F514C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloWorldSample;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F614C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloActionsSample;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F714C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = HelloEventsSample;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F814C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug350;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793F914C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug422;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FA14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug458;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FB14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug624;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FC14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug886;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FD14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug899;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FE14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PRODUCT_NAME = Bug914;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD1793FF14C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = Bug1159;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
+		};
+		FD17940014C531CD00E859EE /* TestFlight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = Resources/Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_NAME = Bug1174;
+				ZERO_LINK = NO;
+			};
+			name = TestFlight;
 		};
 /* End XCBuildConfiguration section */
 
@@ -16202,622 +19190,760 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05AAF3E210EE85B300CACA2B /* Debug */,
-				05AAF3E310EE85B300CACA2B /* Release */,
+				05AAF3E310EE85B300CACA2B /* Cupcakes */,
+				FD17939E14C531C800E859EE /* Distribution */,
+				FD1793E314C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		05CA7B0110ED674700F12774 /* Build configuration list for PBXNativeTarget "ActionsWithBlocksSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05CA7B0210ED674700F12774 /* Debug */,
-				05CA7B0310ED674700F12774 /* Release */,
+				05CA7B0310ED674700F12774 /* Cupcakes */,
+				FD17938514C531C800E859EE /* Distribution */,
+				FD1793CA14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		495E73FC104B74E40012BB52 /* Build configuration list for PBXNativeTarget "RenderTextureTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				495E73FA104B74E30012BB52 /* Debug */,
-				495E73FB104B74E30012BB52 /* Release */,
+				495E73FB104B74E30012BB52 /* Cupcakes */,
+				FD1793A514C531C800E859EE /* Distribution */,
+				FD1793EA14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50010ECF103B3DB80059EC2E /* Build configuration list for PBXNativeTarget "Box2dTestBed" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50010ED0103B3DB80059EC2E /* Debug */,
-				50010ED1103B3DB80059EC2E /* Release */,
+				50010ED1103B3DB80059EC2E /* Cupcakes */,
+				FD17938814C531C800E859EE /* Distribution */,
+				FD1793CD14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5012DD380FE2994300D6DDD1 /* Build configuration list for PBXNativeTarget "TouchesTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5012DD390FE2994300D6DDD1 /* Debug */,
-				5012DD3A0FE2994300D6DDD1 /* Release */,
+				5012DD3A0FE2994300D6DDD1 /* Cupcakes */,
+				FD1793AD14C531C800E859EE /* Distribution */,
+				FD1793F214C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		501504EA11330E1700A9CA65 /* Build configuration list for PBXNativeTarget "ProgressActionsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				501504EB11330E1700A9CA65 /* Debug */,
-				501504EC11330E1700A9CA65 /* Release */,
+				501504EC11330E1700A9CA65 /* Cupcakes */,
+				FD1793A414C531C800E859EE /* Distribution */,
+				FD1793E914C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5018F2500DFDEAE300C013A5 /* Build configuration list for PBXNativeTarget "cocos2d" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5018F24E0DFDEAC500C013A5 /* Debug */,
-				5018F24F0DFDEAC500C013A5 /* Release */,
+				5018F24F0DFDEAC500C013A5 /* Cupcakes */,
+				FD17937B14C531C800E859EE /* Distribution */,
+				FD1793C014C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		501945710F964C620059CE7C /* Build configuration list for PBXNativeTarget "drawPrimitivesTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				501945720F964C620059CE7C /* Debug */,
-				501945730F964C620059CE7C /* Release */,
+				501945730F964C620059CE7C /* Cupcakes */,
+				FD17939314C531C800E859EE /* Distribution */,
+				FD1793D814C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		501C7C8E0F91EFFF0024A296 /* Build configuration list for PBXNativeTarget "SpriteTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				501C7C8F0F91EFFF0024A296 /* Debug */,
-				501C7C900F91EFFF0024A296 /* Release */,
+				501C7C900F91EFFF0024A296 /* Cupcakes */,
+				FD1793A914C531C800E859EE /* Distribution */,
+				FD1793EE14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		502BF56611E39CC30030C477 /* Build configuration list for PBXNativeTarget "Bug914" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				502BF56711E39CC30030C477 /* Debug */,
-				502BF56811E39CC30030C477 /* Release */,
+				502BF56811E39CC30030C477 /* Cupcakes */,
+				FD1793B914C531C800E859EE /* Distribution */,
+				FD1793FE14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		502C65F10DFEF3FC00E4107D /* Build configuration list for PBXNativeTarget "cocos2d-documentation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				502C65EF0DFEF3DE00E4107D /* Debug */,
-				502C65F00DFEF3DE00E4107D /* Release */,
+				502C65F00DFEF3DE00E4107D /* Cupcakes */,
+				FD17937C14C531C800E859EE /* Distribution */,
+				FD1793C114C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		502C661D0DFEFCCA00E4107D /* Build configuration list for PBXNativeTarget "RotateWorldTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				502C661B0DFEFCCA00E4107D /* Debug */,
-				502C661C0DFEFCCA00E4107D /* Release */,
+				502C661C0DFEFCCA00E4107D /* Cupcakes */,
+				FD1793A614C531C800E859EE /* Distribution */,
+				FD1793EB14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		503164E0102776A4003ACFE7 /* Build configuration list for PBXNativeTarget "libpng" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				503164CE10277666003ACFE7 /* Debug */,
-				503164CF10277666003ACFE7 /* Release */,
+				503164CF10277666003ACFE7 /* Cupcakes */,
+				FD17938014C531C800E859EE /* Distribution */,
+				FD1793C514C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		503F5CBB101FE930002A37E5 /* Build configuration list for PBXNativeTarget "TileMapTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				503F5CBC101FE930002A37E5 /* Debug */,
-				503F5CBD101FE930002A37E5 /* Release */,
+				503F5CBD101FE930002A37E5 /* Cupcakes */,
+				FD1793AC14C531C800E859EE /* Distribution */,
+				FD1793F114C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		504225730FC0B3C300B992F7 /* Build configuration list for PBXNativeTarget "box2d" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				504225710FC0B39D00B992F7 /* Debug */,
-				504225720FC0B39D00B992F7 /* Release */,
+				504225720FC0B39D00B992F7 /* Cupcakes */,
+				FD17937914C531C800E859EE /* Distribution */,
+				FD1793BE14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5042262B0FC0B5D500B992F7 /* Build configuration list for PBXNativeTarget "Box2dAccelTouchTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5042262C0FC0B5D500B992F7 /* Debug */,
-				5042262D0FC0B5D500B992F7 /* Release */,
+				5042262D0FC0B5D500B992F7 /* Cupcakes */,
+				FD17938714C531C800E859EE /* Distribution */,
+				FD1793CC14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		504799AE100F6A4200D1C71A /* Build configuration list for PBXNativeTarget "LayerTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				504799AF100F6A4200D1C71A /* Debug */,
-				504799B0100F6A4200D1C71A /* Release */,
+				504799B0100F6A4200D1C71A /* Cupcakes */,
+				FD17939C14C531C800E859EE /* Distribution */,
+				FD1793E114C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5048288F0F45AED800A30CEF /* Build configuration list for PBXNativeTarget "AttachTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5048288D0F45AED800A30CEF /* Debug */,
-				5048288E0F45AED800A30CEF /* Release */,
+				5048288E0F45AED800A30CEF /* Cupcakes */,
+				FD17938614C531C800E859EE /* Distribution */,
+				FD1793CB14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		504CC32C1035BDE90096894C /* Build configuration list for PBXNativeTarget "ActionManagerTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				504CC32D1035BDE90096894C /* Debug */,
-				504CC32E1035BDE90096894C /* Release */,
+				504CC32E1035BDE90096894C /* Cupcakes */,
+				FD17938314C531C800E859EE /* Distribution */,
+				FD1793C814C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		504E17E111C4C7E400E19835 /* Build configuration list for PBXNativeTarget "EAGLViewTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				504E17DF11C4C7E400E19835 /* Debug */,
-				504E17E011C4C7E400E19835 /* Release */,
+				504E17E011C4C7E400E19835 /* Cupcakes */,
+				FD17939414C531C800E859EE /* Distribution */,
+				FD1793D914C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		505224FE11B3D4710061670F /* Build configuration list for PBXNativeTarget "CocosDenshion - Tom The Turret" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				505224FC11B3D4710061670F /* Debug */,
-				505224FD11B3D4710061670F /* Release */,
+				505224FD11B3D4710061670F /* Cupcakes */,
+				FD17938C14C531C800E859EE /* Distribution */,
+				FD1793D114C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		505228B711B3DBB90061670F /* Build configuration list for PBXNativeTarget "CocosDenshion - Drum Pad" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				505228B811B3DBB90061670F /* Debug */,
-				505228B911B3DBB90061670F /* Release */,
+				505228B911B3DBB90061670F /* Cupcakes */,
+				FD17938D14C531C800E859EE /* Distribution */,
+				FD1793D214C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5052293911B3DCD80061670F /* Build configuration list for PBXNativeTarget "CocosDenshion - Fade To Grey" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5052293A11B3DCD80061670F /* Debug */,
-				5052293B11B3DCD80061670F /* Release */,
+				5052293B11B3DCD80061670F /* Cupcakes */,
+				FD17938E14C531C800E859EE /* Distribution */,
+				FD1793D314C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5052296B11B3DCE90061670F /* Build configuration list for PBXNativeTarget "CocosDenshion - FancyRat Metering" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5052296C11B3DCE90061670F /* Debug */,
-				5052296D11B3DCE90061670F /* Release */,
+				5052296D11B3DCE90061670F /* Cupcakes */,
+				FD17938F14C531C800E859EE /* Distribution */,
+				FD1793D414C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		505461F410616AEE00AB7C52 /* Build configuration list for PBXNativeTarget "FontLabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				505461F210616AE200AB7C52 /* Debug */,
-				505461F310616AE200AB7C52 /* Release */,
+				505461F310616AE200AB7C52 /* Cupcakes */,
+				FD17937F14C531C800E859EE /* Distribution */,
+				FD1793C414C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		505B62D30F2E6A0F001B4104 /* Build configuration list for PBXNativeTarget "Texture2dTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				505B62D40F2E6A0F001B4104 /* Debug */,
-				505B62D50F2E6A0F001B4104 /* Release */,
+				505B62D50F2E6A0F001B4104 /* Cupcakes */,
+				FD1793AB14C531C800E859EE /* Distribution */,
+				FD1793F014C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		505B63A00F2F4210001B4104 /* Build configuration list for PBXNativeTarget "EaseActionsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				505B63A10F2F4210001B4104 /* Debug */,
-				505B63A20F2F4210001B4104 /* Release */,
+				505B63A20F2F4210001B4104 /* Cupcakes */,
+				FD17939514C531C800E859EE /* Distribution */,
+				FD1793DA14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		506144050E589A2E003CCDB7 /* Build configuration list for PBXNativeTarget "cocosnodeTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				506144060E589A2E003CCDB7 /* Debug */,
-				506144070E589A2E003CCDB7 /* Release */,
+				506144070E589A2E003CCDB7 /* Cupcakes */,
+				FD17939114C531C800E859EE /* Distribution */,
+				FD1793D614C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5068820E0E95761200F943E5 /* Build configuration list for PBXNativeTarget "LabelTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5068820F0E95761200F943E5 /* Debug */,
-				506882100E95761200F943E5 /* Release */,
+				506882100E95761200F943E5 /* Cupcakes */,
+				FD17939B14C531C800E859EE /* Distribution */,
+				FD1793E014C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		506C77DF0E01520900B48100 /* Build configuration list for PBXNativeTarget "ClickAndMoveTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				506C77E00E01520900B48100 /* Debug */,
-				506C77E10E01520900B48100 /* Release */,
+				506C77E10E01520900B48100 /* Cupcakes */,
+				FD17938B14C531C800E859EE /* Distribution */,
+				FD1793D014C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		506C7A060E01C73A00B48100 /* Build configuration list for PBXNativeTarget "MenuTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				506C7A070E01C73A00B48100 /* Debug */,
-				506C7A080E01C73A00B48100 /* Release */,
+				506C7A080E01C73A00B48100 /* Cupcakes */,
+				FD17939D14C531C800E859EE /* Distribution */,
+				FD1793E214C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		506C800B0E041C9300B48100 /* Build configuration list for PBXNativeTarget "SceneTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				506C800C0E041C9300B48100 /* Debug */,
-				506C800D0E041C9300B48100 /* Release */,
+				506C800D0E041C9300B48100 /* Cupcakes */,
+				FD1793A714C531C800E859EE /* Distribution */,
+				FD1793EC14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		5078B52C0E3E43540004233A /* Build configuration list for PBXNativeTarget "IntervalTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5078B52D0E3E43540004233A /* Debug */,
-				5078B52E0E3E43540004233A /* Release */,
+				5078B52E0E3E43540004233A /* Cupcakes */,
+				FD17939914C531C800E859EE /* Distribution */,
+				FD1793DE14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		507C0F0811D609290075E747 /* Build configuration list for PBXNativeTarget "Bug899" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				507C0F0911D609290075E747 /* Debug */,
-				507C0F0A11D609290075E747 /* Release */,
+				507C0F0A11D609290075E747 /* Cupcakes */,
+				FD1793B814C531C800E859EE /* Distribution */,
+				FD1793FD14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		507FF8EF116D16F600B6FAB2 /* Build configuration list for PBXNativeTarget "Bug350" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				507FF8F0116D16F600B6FAB2 /* Debug */,
-				507FF8F1116D16F600B6FAB2 /* Release */,
+				507FF8F1116D16F600B6FAB2 /* Cupcakes */,
+				FD1793B314C531C800E859EE /* Distribution */,
+				FD1793F814C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		508CA7D71193270F003AC397 /* Build configuration list for PBXNativeTarget "SchedulerTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				508CA7D81193270F003AC397 /* Debug */,
-				508CA7D91193270F003AC397 /* Release */,
+				508CA7D91193270F003AC397 /* Cupcakes */,
+				FD1793A814C531C800E859EE /* Distribution */,
+				FD1793ED14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		509807671175045700EA7266 /* Build configuration list for PBXNativeTarget "build all tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				509807091175041B00EA7266 /* Debug */,
-				5098070A1175041B00EA7266 /* Release */,
+				5098070A1175041B00EA7266 /* Cupcakes */,
+				FD17937814C531C800E859EE /* Distribution */,
+				FD1793BD14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		509B3A060F31023000F2FB95 /* Build configuration list for PBXNativeTarget "TouchJSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				509B39E00F31020B00F2FB95 /* Debug */,
-				509B39E10F31020B00F2FB95 /* Release */,
+				509B39E10F31020B00F2FB95 /* Cupcakes */,
+				FD17938114C531C800E859EE /* Distribution */,
+				FD1793C614C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		509B3A1D0F31027600F2FB95 /* Build configuration list for PBXNativeTarget "cocosLive" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				509B3A0E0F31024F00F2FB95 /* Debug */,
-				509B3A0F0F31024F00F2FB95 /* Release */,
+				509B3A0F0F31024F00F2FB95 /* Cupcakes */,
+				FD17937E14C531C800E859EE /* Distribution */,
+				FD1793C314C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		509B3A2D0F3102FE00F2FB95 /* Build configuration list for PBXNativeTarget "cocosLiveTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				509B3A2B0F3102FE00F2FB95 /* Debug */,
-				509B3A2C0F3102FE00F2FB95 /* Release */,
+				509B3A2C0F3102FE00F2FB95 /* Cupcakes */,
+				FD17939014C531C800E859EE /* Distribution */,
+				FD1793D514C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50A24E410F377FA1007CAEB0 /* Build configuration list for PBXNativeTarget "EffectsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50A24E420F377FA1007CAEB0 /* Debug */,
-				50A24E430F377FA1007CAEB0 /* Release */,
+				50A24E430F377FA1007CAEB0 /* Cupcakes */,
+				FD17939614C531C800E859EE /* Distribution */,
+				FD1793DB14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50A783C10F3AFCE500104C45 /* Build configuration list for PBXNativeTarget "MotionStreakTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50A783C20F3AFCE500104C45 /* Debug */,
-				50A783C30F3AFCE500104C45 /* Release */,
+				50A783C30F3AFCE500104C45 /* Cupcakes */,
+				FD17939F14C531C800E859EE /* Distribution */,
+				FD1793E414C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50B2C4D40E100B0000AE9530 /* Build configuration list for PBXNativeTarget "Chipmunk" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50B2C4D20E100AEB00AE9530 /* Debug */,
-				50B2C4D30E100AEB00AE9530 /* Release */,
+				50B2C4D30E100AEB00AE9530 /* Cupcakes */,
+				FD17937A14C531C800E859EE /* Distribution */,
+				FD1793BF14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50B2C5E50E100EF000AE9530 /* Build configuration list for PBXNativeTarget "ChipmunkAccelTouchTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50B2C5E60E100EF000AE9530 /* Debug */,
-				50B2C5E70E100EF000AE9530 /* Release */,
+				50B2C5E70E100EF000AE9530 /* Cupcakes */,
+				FD17938914C531C800E859EE /* Distribution */,
+				FD1793CE14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50B2CE4B0E129FDA00AE9530 /* Build configuration list for PBXNativeTarget "ChipmunkTestBed" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50B2CE490E129FDA00AE9530 /* Debug */,
-				50B2CE4A0E129FDA00AE9530 /* Release */,
+				50B2CE4A0E129FDA00AE9530 /* Cupcakes */,
+				FD17938A14C531C800E859EE /* Distribution */,
+				FD1793CF14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50C1955D0EE4B57E00829067 /* Build configuration list for PBXNativeTarget "ParallaxTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50C1955E0EE4B57E00829067 /* Debug */,
-				50C1955F0EE4B57E00829067 /* Release */,
+				50C1955F0EE4B57E00829067 /* Cupcakes */,
+				FD1793A014C531C800E859EE /* Distribution */,
+				FD1793E514C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50C938DD0E0A9DBB00517B01 /* Build configuration list for PBXNativeTarget "TransitionsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50C938DE0E0A9DBB00517B01 /* Debug */,
-				50C938DF0E0A9DBB00517B01 /* Release */,
+				50C938DF0E0A9DBB00517B01 /* Cupcakes */,
+				FD1793AE14C531C800E859EE /* Distribution */,
+				FD1793F314C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50C93AAA0E0BF6E000517B01 /* Build configuration list for PBXNativeTarget "ActionsTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50C93AAB0E0BF6E000517B01 /* Debug */,
-				50C93AAC0E0BF6E000517B01 /* Release */,
+				50C93AAC0E0BF6E000517B01 /* Cupcakes */,
+				FD17938414C531C800E859EE /* Distribution */,
+				FD1793C914C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50CB2FEA1004C8DA00B7A750 /* Build configuration list for PBXNativeTarget "CocosDenshion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50CB2FE31004C8B200B7A750 /* Debug */,
-				50CB2FE41004C8B200B7A750 /* Release */,
+				50CB2FE41004C8B200B7A750 /* Cupcakes */,
+				FD17937D14C531C800E859EE /* Distribution */,
+				FD1793C214C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50CBA48411CBD6FB007B009D /* Build configuration list for PBXNativeTarget "Bug886" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50CBA48511CBD6FB007B009D /* Debug */,
-				50CBA48611CBD6FB007B009D /* Release */,
+				50CBA48611CBD6FB007B009D /* Cupcakes */,
+				FD1793B714C531C800E859EE /* Distribution */,
+				FD1793FC14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50D0E05C0FF9232E00098927 /* Build configuration list for PBXNativeTarget "HelloActionsSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50D0E05D0FF9232E00098927 /* Debug */,
-				50D0E05E0FF9232E00098927 /* Release */,
+				50D0E05E0FF9232E00098927 /* Cupcakes */,
+				FD1793B114C531C800E859EE /* Distribution */,
+				FD1793F614C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50D0E0DB0FF930BA00098927 /* Build configuration list for PBXNativeTarget "HelloEventsSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50D0E0DC0FF930BA00098927 /* Debug */,
-				50D0E0DD0FF930BA00098927 /* Release */,
+				50D0E0DD0FF930BA00098927 /* Cupcakes */,
+				FD1793B214C531C800E859EE /* Distribution */,
+				FD1793F714C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50D56FCF0F3FABEC007CD6B9 /* Build configuration list for PBXNativeTarget "EffectsAdvancedTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50D56FD00F3FABEC007CD6B9 /* Debug */,
-				50D56FD10F3FABEC007CD6B9 /* Release */,
+				50D56FD10F3FABEC007CD6B9 /* Cupcakes */,
+				FD17939714C531C800E859EE /* Distribution */,
+				FD1793DC14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50DB1BC70E1C1E5900A89DFF /* Build configuration list for PBXNativeTarget "ParticleTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50DB1BC80E1C1E5900A89DFF /* Debug */,
-				50DB1BC90E1C1E5900A89DFF /* Release */,
+				50DB1BC90E1C1E5900A89DFF /* Cupcakes */,
+				FD1793A114C531C800E859EE /* Distribution */,
+				FD1793E614C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50DFC29C0FF627B6007E7827 /* Build configuration list for PBXNativeTarget "HelloWorldSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50DFC29D0FF627B6007E7827 /* Debug */,
-				50DFC29E0FF627B6007E7827 /* Release */,
+				50DFC29E0FF627B6007E7827 /* Cupcakes */,
+				FD1793B014C531C800E859EE /* Distribution */,
+				FD1793F514C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		50E77D0F11D4C925009CA2C2 /* Build configuration list for PBXNativeTarget "HiResTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50E77D1011D4C925009CA2C2 /* Debug */,
-				50E77D1111D4C925009CA2C2 /* Release */,
+				50E77D1111D4C925009CA2C2 /* Cupcakes */,
+				FD17939A14C531C800E859EE /* Distribution */,
+				FD1793DF14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		8E6CBEF20F7A759F00D47B3A /* Build configuration list for PBXNativeTarget "vorbis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E6CBEF00F7A758100D47B3A /* Debug */,
-				8E6CBEF10F7A758100D47B3A /* Release */,
+				8E6CBEF10F7A758100D47B3A /* Cupcakes */,
+				FD17938214C531C800E859EE /* Distribution */,
+				FD1793C714C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		8EDF3ED50F6BDA0000F54643 /* Build configuration list for PBXNativeTarget "PASoundEngineTest (experimental)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EDF3ED60F6BDA0000F54643 /* Debug */,
-				8EDF3ED70F6BDA0000F54643 /* Release */,
+				8EDF3ED70F6BDA0000F54643 /* Cupcakes */,
+				FD1793A314C531C800E859EE /* Distribution */,
+				FD1793E814C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		A0240F15139E3AE50075D13F /* Build configuration list for PBXNativeTarget "TestCocos2dExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A0240F16139E3AE50075D13F /* Debug */,
-				A0240F17139E3AE50075D13F /* Release */,
+				A0240F17139E3AE50075D13F /* Cupcakes */,
+				FD1793AA14C531C800E859EE /* Distribution */,
+				FD1793EF14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		A031C5B4139543A70072E9F9 /* Build configuration list for PBXNativeTarget "Bug1174" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A031C5B5139543A70072E9F9 /* Debug */,
-				A031C5B6139543A70072E9F9 /* Release */,
+				A031C5B6139543A70072E9F9 /* Cupcakes */,
+				FD1793BB14C531C800E859EE /* Distribution */,
+				FD17940014C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		A094A9C114436D9A0055E239 /* Build configuration list for PBXNativeTarget "ParticleBatchTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A094A9C214436D9A0055E239 /* Debug */,
-				A094A9C314436D9A0055E239 /* Release */,
+				A094A9C314436D9A0055E239 /* Cupcakes */,
+				FD1793A214C531C800E859EE /* Distribution */,
+				FD1793E714C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "cocos2d-ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,
-				C01FCF5008A954540054247B /* Release */,
+				C01FCF5008A954540054247B /* Cupcakes */,
+				FD17937714C531C800E859EE /* Distribution */,
+				FD1793BC14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		DA5F0EE10FFE96D400C7C82E /* Build configuration list for PBXNativeTarget "Bug422" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA5F0EE20FFE96D400C7C82E /* Debug */,
-				DA5F0EE30FFE96D400C7C82E /* Release */,
+				DA5F0EE30FFE96D400C7C82E /* Cupcakes */,
+				FD1793B414C531C800E859EE /* Distribution */,
+				FD1793F914C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		DAABAA971059A42E00794EB3 /* Build configuration list for PBXNativeTarget "FontTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DAABAA981059A42E00794EB3 /* Debug */,
-				DAABAA991059A42E00794EB3 /* Release */,
+				DAABAA991059A42E00794EB3 /* Cupcakes */,
+				FD17939814C531C800E859EE /* Distribution */,
+				FD1793DD14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E02BC2CA1270E489006E46A2 /* Build configuration list for PBXNativeTarget "Bug624" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E02BC2CB1270E489006E46A2 /* Debug */,
-				E02BC2CC1270E489006E46A2 /* Release */,
+				E02BC2CC1270E489006E46A2 /* Cupcakes */,
+				FD1793B614C531C800E859EE /* Distribution */,
+				FD1793FB14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E037DA491281C7F0003D39D7 /* Build configuration list for PBXNativeTarget "Bug458" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E037DA4A1281C7F0003D39D7 /* Debug */,
-				E037DA4B1281C7F0003D39D7 /* Release */,
+				E037DA4B1281C7F0003D39D7 /* Cupcakes */,
+				FD1793B514C531C800E859EE /* Distribution */,
+				FD1793FA14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0A8C2C4133C335500297B76 /* Build configuration list for PBXNativeTarget "DirectorTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0A8C2C5133C335500297B76 /* Debug */,
-				E0A8C2C6133C335500297B76 /* Release */,
+				E0A8C2C6133C335500297B76 /* Cupcakes */,
+				FD17939214C531C800E859EE /* Distribution */,
+				FD1793D714C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0BD926D134B744600E71F1D /* Build configuration list for PBXNativeTarget "Bug1159" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0BD926E134B744600E71F1D /* Debug */,
-				E0BD926F134B744600E71F1D /* Release */,
+				E0BD926F134B744600E71F1D /* Cupcakes */,
+				FD1793BA14C531C800E859EE /* Distribution */,
+				FD1793FF14C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 		E0C5588311FE48E600B9E4CB /* Build configuration list for PBXNativeTarget "ZwoptexTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0C5588411FE48E600B9E4CB /* Debug */,
-				E0C5588511FE48E600B9E4CB /* Release */,
+				E0C5588511FE48E600B9E4CB /* Cupcakes */,
+				FD1793AF14C531C800E859EE /* Distribution */,
+				FD1793F414C531CD00E859EE /* TestFlight */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Cupcakes;
 		};
 /* End XCConfigurationList section */
 	};
