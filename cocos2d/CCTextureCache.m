@@ -250,9 +250,7 @@ static CCTextureCache *sharedTextureCache;
 	[dictLock_ lock];
 	
 	// remove possible -HD suffix to prevent caching the same image twice (issue #1040)
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 	path = [CCFileUtils removeSuffixFromFile: path];
-#endif
 
 	tex=[textures_ objectForKey: path];
 	
@@ -456,9 +454,7 @@ static CCTextureCache *sharedTextureCache;
 	CCTexture2D * tex;
 	
 	// remove possible -HD suffix to prevent caching the same image twice (issue #1040)
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 	path = [CCFileUtils removeSuffixFromFile: path];
-#endif
 
 	if( (tex=[textures_ objectForKey: path] ) ) {
 		return tex;

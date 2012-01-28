@@ -39,6 +39,10 @@ static NSFileManager *__localFileManager=nil;
 static NSString *__suffixRetinaDisplay =@"-hd";
 static NSString *__suffixiPad =@"-ipad";
 
+#elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+
+static NSString *__suffixMac =@"";
+
 #endif // __IPHONE_OS_VERSION_MAX_ALLOWED
 
 
@@ -75,12 +79,10 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 }
 
 
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 @interface CCFileUtils()
 +(NSString *) removeSuffix:(NSString*)suffix fromPath:(NSString*)path;
 +(BOOL) fileExistsAtPath:(NSString*)string withSuffix:(NSString*)suffix;
 @end
-#endif // __IPHONE_OS_VERSION_MAX_ALLOWED
 
 @implementation CCFileUtils
 
@@ -152,9 +154,9 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 	if (fullpath == nil)
 		fullpath = relPath;
 	
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-	
 	NSString *ret = nil;
+	
+#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 	
 	// Retina Display ?
 	if( CC_CONTENT_SCALE_FACTOR() == 2 ) {
@@ -172,21 +174,21 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 	else
 		*resolutionType = kCCResolutionStandard;
 	
-	if( ! ret ) {
-		*resolutionType = kCCResolutionStandard;
-		ret = fullpath;
-	}
-	
-	return ret;
 	
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
 	
+    ret = [self getPath:fullpath forSuffix:__suffixMac];
 	*resolutionType = kCCResolutionStandard;
 	
-	return fullpath;	
-	
 #endif // __MAC_OS_X_VERSION_MAX_ALLOWED
-
+    
+    // If we can't find a file with the suffix, try without.
+    if( ! ret ) {
+		*resolutionType = kCCResolutionStandard;
+		ret = fullpath;
+	}
+    
+    return ret;
 }
 
 +(NSString*) fullPathFromRelativePath:(NSString*) relPath
@@ -195,10 +197,7 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 	return [self fullPathFromRelativePath:relPath resolutionType:&ignore];
 }
 
-#pragma mark CCFileUtils - Suffix (iOS only)
-
-
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
+#pragma mark CCFileUtils - Suffix
 
 +(NSString *) removeSuffix:(NSString*)suffix fromPath:(NSString*)path
 {
@@ -225,34 +224,32 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 +(NSString*) removeSuffixFromFile:(NSString*) path
 {
 	NSString *ret = nil;
-	if( CC_CONTENT_SCALE_FACTOR() == 2 )
+
+#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
+	
+    if( CC_CONTENT_SCALE_FACTOR() == 2 )
+    {
 		ret = [self removeSuffix:__suffixRetinaDisplay fromPath:path];
-	
+    }
 	else if( UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+    {
 		ret = [self removeSuffix:__suffixiPad fromPath:path];
-	
+    }
 	else 
+    {
 		ret = path;
+    }
+#elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+    ret = [self removeSuffix:__suffixMac fromPath:path];
+#endif
 	
 	return ret;
-}
-
-+(void) setRetinaDisplaySuffix:(NSString*)suffix
-{
-	[__suffixRetinaDisplay release];
-	__suffixRetinaDisplay = [suffix copy];
-}
-
-+(void) setiPadSuffix:(NSString*)suffix
-{
-	[__suffixiPad release];
-	__suffixiPad = [suffix copy];
 }
 
 +(BOOL) fileExistsAtPath:(NSString*)relPath withSuffix:(NSString*)suffix
 {
 	NSString *fullpath = nil;
-
+    
 	// only if it is not an absolute path
 	if( ! [relPath isAbsolutePath] ) {
 		// pathForResource also searches in .lproj directories. issue #1230
@@ -267,10 +264,24 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 	
 	if (fullpath == nil)
 		fullpath = relPath;
-
+    
 	NSString *path = [self getPath:fullpath forSuffix:suffix];
 	
 	return ( path != nil );
+}
+
+#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
+
++(void) setRetinaDisplaySuffix:(NSString*)suffix
+{
+	[__suffixRetinaDisplay release];
+	__suffixRetinaDisplay = [suffix copy];
+}
+
++(void) setiPadSuffix:(NSString*)suffix
+{
+	[__suffixiPad release];
+	__suffixiPad = [suffix copy];
 }
 
 +(BOOL) iPadFileExistsAtPath:(NSString*)path
@@ -281,6 +292,19 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 +(BOOL) retinaDisplayFileExistsAtPath:(NSString*)path
 {
 	return [self fileExistsAtPath:path withSuffix:__suffixRetinaDisplay];
+}
+
+#elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+
++(void) setMacSuffix:(NSString*)suffix
+{
+	[__suffixMac release];
+	__suffixMac = [suffix copy];
+}
+
++(BOOL) macFileExistsAtPath:(NSString*)path
+{
+	return [self fileExistsAtPath:path withSuffix:__suffixMac];
 }
 
 #endif // __IPHONE_OS_VERSION_MAX_ALLOWED
