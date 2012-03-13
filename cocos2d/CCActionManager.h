@@ -28,26 +28,20 @@
 
 
 #import "CCAction.h"
+#import "ccMacros.h"
 #import "Support/ccCArray.h"
 #import "Support/uthash.h"
 
 typedef struct _hashElement
 {
 	struct ccArray	*actions;
-#if defined(__has_feature) && __has_feature(objc_arc)
-	__unsafe_unretained id				target;
-#else
-	id				target;
-#endif
 	NSUInteger		actionIndex;
-#if defined(__has_feature) && __has_feature(objc_arc)
-	__unsafe_unretained CCAction		*currentAction;
-#else
-	CCAction		*currentAction;
-#endif
 	BOOL			currentActionSalvaged;
 	BOOL			paused;	
 	UT_hash_handle	hh;
+	
+	CC_ARC_UNSAFE_RETAINED	id				target;
+	CC_ARC_UNSAFE_RETAINED	CCAction		*currentAction;
 } tHashElement;
 
 
