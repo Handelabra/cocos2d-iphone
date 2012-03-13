@@ -90,6 +90,8 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 @synthesize touchDelegate=touchDelegate_;
 @synthesize context=context_;
 @synthesize multiSampling=multiSampling_;
+@synthesize renderer = renderer_;
+@synthesize fixedSize = fixedSize_;
 
 + (Class) layerClass
 {
@@ -151,7 +153,7 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 		
 		CAEAGLLayer*			eaglLayer = (CAEAGLLayer*)[self layer];
 		
-		pixelformat_ = kEAGLColorFormatRGB565;
+		pixelformat_ = kEAGLColorFormatRGBA8;
 		depthFormat_ = 0; // GL_DEPTH_COMPONENT24_OES;
 		multiSampling_= NO;
 		requestedSamples_ = 0;
@@ -185,6 +187,7 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 		return NO;
 	
 	context_ = [renderer_ context];
+	[context_ renderbufferStorage:GL_RENDERBUFFER_OES fromDrawable:eaglLayer];
 
 	discardFramebufferSupported_ = [[CCConfiguration sharedConfiguration] supportsDiscardFramebuffer];
 	
@@ -202,9 +205,11 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 
 - (void) layoutSubviews
 {
-	[renderer_ resizeFromLayer:(CAEAGLLayer*)self.layer];
-	
+    if (!self.fixedSize)
+    {	
 	size_ = [renderer_ backingSize];
+
+	[renderer_ resizeFromLayer:(CAEAGLLayer*)self.layer];
 
 	// Issue #914 #924
 	CCDirector *director = [CCDirector sharedDirector];
@@ -212,6 +217,7 @@ Copyright (C) 2008 Apple Inc. All Rights Reserved.
 	
 	// Avoid flicker. Issue #350
 	[director performSelectorOnMainThread:@selector(drawScene) withObject:nil waitUntilDone:YES];
+    }
 }	
 
 - (void) swapBuffers

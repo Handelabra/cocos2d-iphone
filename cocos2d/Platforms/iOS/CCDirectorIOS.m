@@ -152,9 +152,7 @@ CGFloat	__ccContentScaleFactor = 1;
 	if( ! isPaused_ ) {
 		[[CCScheduler sharedScheduler] tick: dt];	
 	}
-    
-    [(ES1Renderer*)openGLView_.renderer bind];
-	
+    	
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	
 	/* to avoid flickr, nextScene MUST be here: after tick and before draw.
@@ -192,9 +190,7 @@ CGFloat	__ccContentScaleFactor = 1;
     
     // Draw the external openGL view if we have it
     if (externalOpenGLView_)
-    {
-        [(ES1Renderer*)externalOpenGLView_.renderer bind];
-        
+    {        
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
         
         glPushMatrix();
@@ -567,7 +563,7 @@ CGFloat	__ccContentScaleFactor = 1;
 #pragma mark -
 #pragma mark Director DirectorFast
 
-static NSAutoreleasePool *autoreleasePool = nil;
+ NSAutoreleasePool *autoreleasePool = nil;
 
 @implementation CCDirectorFast
 
