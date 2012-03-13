@@ -163,6 +163,12 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 		if( CC_CONTENT_SCALE_FACTOR() == 2 ) {
 			ret = [self getPath:fullpath forSuffix:__suffixiPadRetinaDisplay];
 			*resolutionType = kCCResolutioniPadRetinaDisplay;
+            
+            // attempt fallback to hd suffix
+            if (ret == nil)
+            {
+                ret = [self getPath:fullpath forSuffix:__suffixiPad];
+            }
 		}
 		else
 		{
@@ -241,7 +247,12 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
 	if( UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad )
 	{
 		if( CC_CONTENT_SCALE_FACTOR() == 2 )
+        {
 			ret = [self removeSuffix:__suffixiPadRetinaDisplay fromPath:path];
+            
+            // must attempt to remove non retina also to make our fallback work
+			ret = [self removeSuffix:__suffixiPad fromPath:path];            
+        }
 		else
 			ret = [self removeSuffix:__suffixiPad fromPath:path];		
 	}
