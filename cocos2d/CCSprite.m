@@ -190,6 +190,13 @@ static SEL selSortMethod = NULL;
 	{
 		[self setTexture:texture];
 		[self setTextureRect:rect];
+        
+        // update initial scale for non SD sprites in HD mode
+        if ((texture.resolutionType == kCCResolutioniPad || texture.resolutionType == kCCResolutioniPhone) && CC_CONTENT_SCALE_FACTOR() != 1)
+        {
+            [self setScaleX:self.scaleX];
+            [self setScaleY:self.scaleY];
+        }
 	}
 	return self;
 }
@@ -808,19 +815,40 @@ static SEL selSortMethod = NULL;
 
 -(void)setScaleX:(float) sx
 {
-	[super setScaleX:sx];
+    if ((self.texture.resolutionType == kCCResolutioniPad || self.texture.resolutionType == kCCResolutioniPhone) && CC_CONTENT_SCALE_FACTOR() != 1)
+    {
+        [super setScaleX:sx * CC_CONTENT_SCALE_FACTOR()];
+    }
+    else 
+    {
+        [super setScaleX:sx];
+    }
 	SET_DIRTY_RECURSIVELY();
 }
 
 -(void)setScaleY:(float) sy
 {
-	[super setScaleY:sy];
+    if ((self.texture.resolutionType == kCCResolutioniPad || self.texture.resolutionType == kCCResolutioniPhone) && CC_CONTENT_SCALE_FACTOR() != 1)
+    {
+        [super setScaleY:sy * CC_CONTENT_SCALE_FACTOR()];
+    }
+    else 
+    {
+        [super setScaleY:sy];
+    }
 	SET_DIRTY_RECURSIVELY();
 }
 
 -(void)setScale:(float) s
 {
-	[super setScale:s];
+    if ((self.texture.resolutionType == kCCResolutioniPad || self.texture.resolutionType == kCCResolutioniPhone) && CC_CONTENT_SCALE_FACTOR() != 1)
+    {
+        [super setScale:s * CC_CONTENT_SCALE_FACTOR()];
+    }
+    else 
+    {
+        [super setScaleX:s];
+    }
 	SET_DIRTY_RECURSIVELY();
 }
 

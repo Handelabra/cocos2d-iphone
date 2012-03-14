@@ -168,6 +168,7 @@ NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out)
             if (ret == nil)
             {
                 ret = [self getPath:fullpath forSuffix:__suffixiPad];
+                *resolutionType = kCCResolutioniPad;
             }
 		}
 		else
