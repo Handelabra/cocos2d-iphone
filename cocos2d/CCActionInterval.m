@@ -938,6 +938,16 @@ static inline float bezierat( float a, float b, float c, float d, ccTime t )
 	[super startWithTarget:aTarget];
 	startScaleX_ = [target_ scaleX];
 	startScaleY_ = [target_ scaleY];
+    
+    if ([aTarget isKindOfClass:[CCSprite class]])
+    {
+        if (( ((CCSprite*)aTarget).texture.resolutionType == kCCResolutioniPad || ((CCSprite*)aTarget).texture.resolutionType == kCCResolutioniPhone) && CC_CONTENT_SCALE_FACTOR() != 1)
+        {
+            startScaleX_ = startScaleX_ / CC_CONTENT_SCALE_FACTOR();
+            startScaleY_ = startScaleY_ / CC_CONTENT_SCALE_FACTOR();
+        }
+    }
+    
 	deltaX_ = endScaleX_ - startScaleX_;
 	deltaY_ = endScaleY_ - startScaleY_;
 }

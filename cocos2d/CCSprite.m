@@ -243,6 +243,7 @@ static SEL selSortMethod = NULL;
 
 	id ret = [self initWithTexture:spriteFrame.texture rect:spriteFrame.rect];
 	[self setDisplayFrame:spriteFrame];
+    
 	return ret;
 }
 
@@ -847,7 +848,7 @@ static SEL selSortMethod = NULL;
     }
     else 
     {
-        [super setScaleX:s];
+        [super setScale:s];
     }
 	SET_DIRTY_RECURSIVELY();
 }
