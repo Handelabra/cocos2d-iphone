@@ -157,7 +157,6 @@ typedef enum {
 /** whether or not the texture has their Alpha premultiplied */
 @property(nonatomic,readonly) BOOL hasPremultipliedAlpha;
 
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 /** Returns the resolution type of the texture.
  Is it a RetinaDisplay texture, an iPad texture or an standard texture ?
  Only valid on iOS. Not valid on OS X.
@@ -167,7 +166,6 @@ typedef enum {
  @since v1.1
  */
 @property (nonatomic, readwrite) ccResolutionType resolutionType;
-#endif
 
 /** returns the content size of the texture in points */
 -(CGSize) contentSize;

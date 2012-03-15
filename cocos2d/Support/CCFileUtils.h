@@ -47,8 +47,6 @@
 +(NSString*) fullPathFromRelativePath:(NSString*) relPath;
 
 
-#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
-
 /** Returns the fullpath of an filename including the resolution of the image.
  
  If in RetinaDisplay mode, and a RetinaDisplay file is found, it will return that path.
@@ -70,11 +68,12 @@
  * On RetinaDisplay it will remove the -hd suffix
  * On iPad it will remove the -ipad suffix
  * On iPhone it will remove the (empty) suffix
- Only valid on iOS. Not valid for OS X.
  
  @since v0.99.5
  */
 +(NSString *)removeSuffixFromFile:(NSString*) path;
+
+#ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 
 /** Sets the iPhone RetinaDisplay suffix to load resources.
  By default it is "-hd".
@@ -117,6 +116,22 @@
  @since v1.1
  */
 +(BOOL) iPhoneRetinaDisplayFileExistsAtPath:(NSString*)filename;
+
+#elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+
+/** Sets the Mac suffix to load resources.
+ By default it is "".
+ Only valid on OS X. Not valid for iOS.
+ 
+ @since v1.1
+ */
++(void) setMacSuffix:(NSString*)suffix;
+
+/** Returns whether or not a given filename exists with the Mac suffix.
+ Only available on OS X. Not supported on iOS.
+ @since v1.1
+ */
++(BOOL) macFileExistsAtPath:(NSString*)filename;
 
 #endif // __IPHONE_OS_VERSION_MAX_ALLOWED
 
