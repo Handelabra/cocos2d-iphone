@@ -36,13 +36,14 @@
 	NSMutableDictionary *fullPathCache_;
 	NSMutableDictionary *removeSuffixCache_;
 	
-	
-#ifdef __CC_PLATFORM_IOS
 	BOOL	enableFallbackSuffixes_;
 	
+#ifdef __CC_PLATFORM_IOS
 	NSString *iPhoneRetinaDisplaySuffix_;
 	NSString *iPadSuffix_;
 	NSString *iPadRetinaDisplaySuffix_;
+#elif __CC_PLATFORM_MAC
+    NSString *macSuffix_;
 #endif // __CC_PLATFORM_IOS
 }
 
@@ -73,7 +74,6 @@
  */
 @property (nonatomic,readwrite, copy, setter = setiPadSuffix:) NSString *iPadSuffix;
 
-
 /** Sets the iPad Retina Display suffixes to load resources.
  By default it is "-ipadhd", "-ipad", "-hd", "", in that order.
  Only valid on iOS. Not valid for OS X.
@@ -81,6 +81,18 @@
  @since v2.0
  */
 @property (nonatomic,readwrite, copy, setter = setiPadRetinaDisplaySuffix:) NSString *iPadRetinaDisplaySuffix;
+
+#elif defined(__CC_PLATFORM_MAC) // __CC_PLATFORM_IOS
+
+ /** The mac suffixes to load resources.
+   +  By default it is "-hd", "", in that order.
+   +  Only valid on OS X. Not valid for iOS.
+   +
+   +  @since v1.1
+   +  */
+@property (nonatomic,readwrite, copy, setter = setMacSuffix:) NSString *macSuffix;
+
+#endif
 
 /** Whether of not the fallback sufixes is enabled.
  When enabled it will try to search for the following suffixes in the following order until one is found:
@@ -91,8 +103,6 @@
  By default this functionality is off;
  */
 @property (nonatomic, readwrite) BOOL enableFallbackSuffixes;
-
-#endif // __CC_PLATFORM_IOS
 
 /** returns the shared file utils instance */
 +(CCFileUtils*) sharedFileUtils;
