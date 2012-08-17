@@ -32,21 +32,21 @@
 #include <sys/time.h>
 
 /** An interval action is an action that takes place within a certain period of time.
-It has an start time, and a finish time. The finish time is the parameter
-duration plus the start time.
-
-These CCActionInterval actions have some interesting properties, like:
+ It has an start time, and a finish time. The finish time is the parameter
+ duration plus the start time.
+ 
+ These CCActionInterval actions have some interesting properties, like:
  - They can run normally (default)
  - They can run reversed with the reverse method
  - They can run with the time altered with the Accelerate, AccelDeccel and Speed actions.
-
-For example, you can simulate a Ping Pong effect running the action normally and
-then running it again in Reverse mode.
-
-Example:
-
-	CCAction * pingPongAction = [CCSequence actions: action, [action reverse], nil];
-*/
+ 
+ For example, you can simulate a Ping Pong effect running the action normally and
+ then running it again in Reverse mode.
+ 
+ Example:
+ 
+ CCAction * pingPongAction = [CCSequence actions: action, [action reverse], nil];
+ */
 @interface CCActionInterval: CCFiniteTimeAction <NSCopying>
 {
 	ccTime	elapsed_;
@@ -127,7 +127,7 @@ Example:
 /**  Rotates a CCNode object to a certain angle by modifying it's
  rotation attribute.
  The direction will be decided by the shortest angle.
-*/
+ */
 @interface CCRotateTo : CCActionInterval <NSCopying>
 {
 	float dstAngle_;
@@ -141,7 +141,7 @@ Example:
 @end
 
 /** Rotates a CCNode object clockwise a number of degrees by modiying its rotation attribute.
-*/
+ */
 @interface CCRotateBy : CCActionInterval <NSCopying>
 {
 	float angle_;
@@ -154,7 +154,7 @@ Example:
 @end
 
 /** Moves a CCNode object to the position x,y. x and y are absolute coordinates by modifying its position attribute.
-*/
+ */
 @interface CCMoveTo : CCActionInterval <NSCopying>
 {
 	CGPoint endPosition_;
@@ -170,7 +170,7 @@ Example:
 /**  Moves a CCNode object x,y pixels by modifying its position attribute.
  x and y are relative to the position of the object.
  Duration is is seconds.
-*/
+ */
 @interface CCMoveBy : CCMoveTo <NSCopying>
 {
 }
@@ -209,8 +209,8 @@ Example:
 @end
 
 /** Moves a CCNode object simulating a parabolic jump movement by modifying its position attribute.
-*/
- @interface CCJumpBy : CCActionInterval <NSCopying>
+ */
+@interface CCJumpBy : CCActionInterval <NSCopying>
 {
 	CGPoint startPosition_;
 	CGPoint delta_;
@@ -224,8 +224,8 @@ Example:
 @end
 
 /** Moves a CCNode object to a parabolic position simulating a jump movement by modifying its position attribute.
-*/
- @interface CCJumpTo : CCJumpBy <NSCopying>
+ */
+@interface CCJumpTo : CCJumpBy <NSCopying>
 {
 }
 @end
@@ -289,14 +289,14 @@ typedef struct _ccBezierConfig {
 @end
 
 /** Scales a CCNode object a zoom factor by modifying its scale attribute.
-*/
+ */
 @interface CCScaleBy : CCScaleTo <NSCopying>
 {
 }
 @end
 
 /** Blinks a CCNode object by modifying its visible attribute
-*/
+ */
 @interface CCBlink : CCActionInterval <NSCopying>
 {
 	NSUInteger times_;
@@ -317,7 +317,7 @@ typedef struct _ccBezierConfig {
 
 /** Fades Out an object that implements the CCRGBAProtocol protocol. It modifies the opacity from 255 to 0.
  The "reverse" of this action is FadeIn
-*/
+ */
 @interface CCFadeOut : CCActionInterval <NSCopying>
 {
 }
@@ -340,7 +340,7 @@ typedef struct _ccBezierConfig {
 /** Tints a CCNode that implements the CCNodeRGB protocol from current tint to a custom one.
  @warning This action doesn't support "reverse"
  @since v0.7.2
-*/
+ */
 @interface CCTintTo : CCActionInterval <NSCopying>
 {
 	ccColor3B to_;
@@ -367,19 +367,19 @@ typedef struct _ccBezierConfig {
 @end
 
 /** Delays the action a certain amount of seconds
-*/
+ */
 @interface CCDelayTime : CCActionInterval <NSCopying>
 {
 }
 @end
 
 /** Executes an action in reverse order, from time=duration to time=0
-
+ 
  @warning Use this action carefully. This action is not
  sequenceable. Use it as the default "reversed" method
  of your own actions, but using it outside the "reversed"
  scope is not recommended.
-*/
+ */
 @interface CCReverseTime : CCActionInterval <NSCopying>
 {
 	CCFiniteTimeAction * other_;

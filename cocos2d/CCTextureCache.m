@@ -195,7 +195,8 @@ static CCTextureCache *sharedTextureCache;
 		glFlush();
 
 		// callback should be executed in cocos2d thread
-		[target performSelector:selector onThread:[[CCDirector sharedDirector] runningThread] withObject:texture waitUntilDone:NO];
+        NSThread *thread = [[CCDirector sharedDirector] runningThread];
+		[target performSelector:selector onThread:thread withObject:texture waitUntilDone:NO];
 
 		[NSOpenGLContext clearCurrentContext];
 

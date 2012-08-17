@@ -65,7 +65,7 @@
 @end
 
 /** CCGLView
-
+ 
  Only available for Mac OS X
  */
 @interface CCGLView : NSOpenGLView {
@@ -92,4 +92,3 @@
 @end
 
 #endif // __CC_PLATFORM_MAC
-

@@ -43,7 +43,6 @@
 @implementation CCGLView
 
 @synthesize eventDelegate = eventDelegate_;
-@synthesize isOpaque = isOpaque_;
 
 +(void) load_
 {
@@ -60,34 +59,34 @@
 {
     NSOpenGLPixelFormatAttribute attribs[] =
     {
-//		NSOpenGLPFAAccelerated,
-//		NSOpenGLPFANoRecovery,
+        //		NSOpenGLPFAAccelerated,
+        //		NSOpenGLPFANoRecovery,
 		NSOpenGLPFADoubleBuffer,
 		NSOpenGLPFADepthSize, 24,
-
+        
 #if 0
 		// Must specify the 3.2 Core Profile to use OpenGL 3.2
 		NSOpenGLPFAOpenGLProfile,
 		NSOpenGLProfileVersion3_2Core,
 #endif
-
+        
 		0
     };
-
+    
 	NSOpenGLPixelFormat *pixelFormat = [[NSOpenGLPixelFormat alloc] initWithAttributes:attribs];
-
+    
 	if (!pixelFormat)
 		CCLOG(@"No OpenGL pixel format");
-
+    
 	if( (self = [super initWithFrame:frameRect pixelFormat:[pixelFormat autorelease]]) ) {
-
+        
 		if( context )
 			[self setOpenGLContext:context];
-
+        
 		// event delegate
 		eventDelegate_ = nil;
 	}
-
+    
 	return self;
 }
 
@@ -100,7 +99,7 @@
 - (void) prepareOpenGL
 {
 	// XXX: Initialize OpenGL context
-
+    
 	[super prepareOpenGL];
 	
 	// Make this openGL context current to the thread
@@ -109,10 +108,10 @@
 	
 	// Synchronize buffer swaps with vertical refresh rate
 	GLint swapInt = 1;
-	[[self openGLContext] setValues:&swapInt forParameter:NSOpenGLCPSwapInterval];	
-
-//	GLint order = -1;
-//	[[self openGLContext] setValues:&order forParameter:NSOpenGLCPSurfaceOrder];
+	[[self openGLContext] setValues:&swapInt forParameter:NSOpenGLCPSwapInterval];
+    
+    //	GLint order = -1;
+    //	[[self openGLContext] setValues:&order forParameter:NSOpenGLCPSurfaceOrder];
 }
 
 - (NSUInteger) depthFormat
@@ -125,17 +124,17 @@
 	// We draw on a secondary thread through the display link
 	// When resizing the view, -reshape is called automatically on the main thread
 	// Add a mutex around to avoid the threads accessing the context simultaneously when resizing
-
+    
 	[self lockOpenGLContext];
-
+    
 	NSRect rect = [self bounds];
-
+    
 	CCDirector *director = [CCDirector sharedDirector];
 	[director reshapeProjection: NSSizeToCGSize(rect.size) ];
-
+    
 	// avoid flicker
 	[director drawScene];
-//	[self setNeedsDisplay:YES];
+    //	[self setNeedsDisplay:YES];
 	
 	[self unlockOpenGLContext];
 }
@@ -145,36 +144,36 @@
 {
 	NSOpenGLContext *glContext = [self openGLContext];
 	NSAssert( glContext, @"FATAL: could not get openGL context");
-
+    
 	[glContext makeCurrentContext];
-	CGLLockContext([glContext CGLContextObj]);	
+	CGLLockContext([glContext CGLContextObj]);
 }
 
 -(void) unlockOpenGLContext
 {
 	NSOpenGLContext *glContext = [self openGLContext];
 	NSAssert( glContext, @"FATAL: could not get openGL context");
-
+    
 	CGLUnlockContext([glContext CGLContextObj]);
 }
 
 - (void) dealloc
 {
 	CCLOGINFO(@"cocos2d: deallocing %@", self);
-
+    
 	[super dealloc];
 }
 
 #define DISPATCH_EVENT(__event__, __selector__)												\
-	id obj = eventDelegate_;																\
-	CCEventObject *event = [[CCEventObject alloc] init];									\
-	event->event = [__event__ retain];														\
-	event->selector = __selector__;															\
-	[obj performSelector:@selector(dispatchEvent:)											\
-			onThread:[[CCDirector sharedDirector] runningThread]							\
-		  withObject:event																	\
-	   waitUntilDone:NO];																	\
-	[event release];
+id obj = eventDelegate_;																\
+CCEventObject *event = [[CCEventObject alloc] init];									\
+event->event = [__event__ retain];														\
+event->selector = __selector__;															\
+[obj performSelector:@selector(dispatchEvent:)											\
+onThread:[[CCDirector sharedDirector] runningThread]							\
+withObject:event																	\
+waitUntilDone:NO];																	\
+[event release];
 
 #pragma mark CCGLView - Mouse events
 

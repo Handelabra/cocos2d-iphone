@@ -84,15 +84,15 @@
 
 /** Whether of not the fallback sufixes is enabled.
  When enabled it will try to search for the following suffixes in the following order until one is found:
-   * On iPad HD  : iPad HD suffix, iPad suffix, iPhone HD suffix, Without suffix
-   * On iPad     : iPad suffix, iPhone HD suffix, Without suffix
-   * On iPhone HD: iPhone HD suffix, Without suffix
+ * On iPad HD  : iPad HD suffix, iPad suffix, iPhone HD suffix, Without suffix
+ * On iPad     : iPad suffix, iPhone HD suffix, Without suffix
+ * On iPhone HD: iPhone HD suffix, Without suffix
  
  By default this functionality is off;
-*/
+ */
 @property (nonatomic, readwrite) BOOL enableFallbackSuffixes;
 
- #endif // __CC_PLATFORM_IOS
+#endif // __CC_PLATFORM_IOS
 
 /** returns the shared file utils instance */
 +(CCFileUtils*) sharedFileUtils;
@@ -104,16 +104,16 @@
 -(void) purgeCachedEntries;
 
 /** Returns the fullpath of an filename.
-
+ 
  If in iPhoneRetinaDisplay mode, and a RetinaDisplay file is found, it will return that path.
  If in iPad mode, and an iPad file is found, it will return that path.
-
+ 
  Examples:
-
-  * In iPad mode: "image.png" -> "/full/path/image-ipad.png" (in case the -ipad file exists)
-  * In iPhone RetinaDisplay mode: "image.png" -> "/full/path/image-hd.png" (in case the -hd file exists)
-  * In iPad RetinaDisplay mode: "image.png" -> "/full/path/image-ipadhd.png" (in case the -ipadhd file exists)
-
+ 
+ * In iPad mode: "image.png" -> "/full/path/image-ipad.png" (in case the -ipad file exists)
+ * In iPhone RetinaDisplay mode: "image.png" -> "/full/path/image-hd.png" (in case the -hd file exists)
+ * In iPad RetinaDisplay mode: "image.png" -> "/full/path/image-ipadhd.png" (in case the -ipadhd file exists)
+ 
  */
 -(NSString*) fullPathFromRelativePath:(NSString*) relPath;
 
@@ -141,9 +141,9 @@
  * On iPhone RetinaDisplay it will remove the -hd suffix
  * On iPad it will remove the -ipad suffix
  * On iPad RetinaDisplay it will remove the -ipadhd suffix
-
+ 
  Only valid on iOS. Not valid for OS X.
-
+ 
  @since v0.99.5
  */
 -(NSString *)removeSuffixFromFile:(NSString*) path;
@@ -174,15 +174,15 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
-/** loads a file into memory.
- the caller should release the allocated buffer.
-
- @returns the size of the allocated buffer
- @since v0.99.5
- */
-NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out);
-
+    
+    /** loads a file into memory.
+     the caller should release the allocated buffer.
+     
+     @returns the size of the allocated buffer
+     @since v0.99.5
+     */
+    NSInteger ccLoadFileIntoMemory(const char *filename, unsigned char **out);
+    
 #ifdef __cplusplus
 }
 #endif
