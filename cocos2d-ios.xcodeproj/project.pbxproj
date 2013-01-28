@@ -14228,6 +14228,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = kazmath;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -14240,6 +14241,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = kazmath;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -14725,6 +14727,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = kazmath;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Cupcakes;
@@ -15775,6 +15778,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = kazmath;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Distribution;
@@ -16825,6 +16829,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = kazmath;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = TestFlight;
