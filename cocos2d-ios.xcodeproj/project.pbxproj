@@ -12713,6 +12713,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -12736,6 +12737,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -14015,6 +14017,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -14026,6 +14029,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -14681,6 +14685,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Cupcakes;
@@ -14706,6 +14711,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Cupcakes;
@@ -15729,6 +15735,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Distribution;
@@ -15754,6 +15761,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = Distribution;
@@ -16777,6 +16785,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = cocos2d;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = TestFlight;
@@ -16802,6 +16811,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = CocosDenshion;
+				SKIP_INSTALL = YES;
 				ZERO_LINK = NO;
 			};
 			name = TestFlight;
